@@ -1,7 +1,7 @@
 ---
 title: Start
 has_more_link: true
-more_link_text: Keep reading
+more_link_text: Weiterlesen
 seo:
   type: stackbit_page_meta
   title: Stackbit Fjord Theme
