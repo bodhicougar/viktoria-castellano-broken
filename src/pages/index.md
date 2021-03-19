@@ -5,7 +5,7 @@ more_link_text: Weiterlesen
 seo:
   type: stackbit_page_meta
   title: Viktoria Castellano
-  description: The preview of the Fjord theme
+  description: 'Anna-Viktoria Castellano:Schauspielerin'
   extra:
     - name: 'og:type'
       value: website
