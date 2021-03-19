@@ -4,7 +4,7 @@ has_more_link: true
 more_link_text: Weiterlesen
 seo:
   type: stackbit_page_meta
-  title: Stackbit Fjord Theme
+  title: Viktoria Castellano
   description: The preview of the Fjord theme
   extra:
     - name: 'og:type'
