@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Fjord Theme
     - name: 'twitter:description'
-      value: The preview of the Fjord theme
+      value: Schauspielerin / actress / etc.
     - name: 'twitter:image'
       value: images/home.jpg
       relativeUrl: true
