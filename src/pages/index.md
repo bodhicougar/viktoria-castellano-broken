@@ -14,7 +14,7 @@ seo:
       value: Anna-Viktoria Castellano
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: Schauspielerin / actress / etc.
       keyName: property
     - name: 'og:image'
       value: /images/IMG_7348.jpg
