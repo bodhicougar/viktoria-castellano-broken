@@ -4,7 +4,7 @@ subtitle: A cautionary tale about life in New York
 date: '2021-05-16'
 thumb_img_path: /images/wias kimmt-40.jpg
 thumb_img_alt: Brooklyn Bridge at daytime
-content_img_path: images/5.jpg
+content_img_path: /images/Screenshot 2020-09-07 13.47.17.png
 excerpt: >-
   The City of New York, usually called either New York City (NYC) or simply New
   York (NY), is the most populous city in the United States. With an estimated
