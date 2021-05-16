@@ -42,7 +42,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 template: post
-subtitle: Produktion September 20
+subtitle: Produktion September 2019
 ---
 
 ![Hiking](/images/2.jpg)
