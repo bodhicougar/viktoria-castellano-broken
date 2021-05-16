@@ -30,7 +30,7 @@
             },
             {
                 "type": "action",
-                "label": "Contact",
+                "label": "Kontakt",
                 "url": "/contact",
                 "style": "link",
                 "new_window": true
