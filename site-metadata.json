@@ -66,7 +66,7 @@
     },
     "footer": {
         "type": "footer",
-        "content": "&copy; Anna-Viktoria Castellano. All rights reserved. This Jamstack site was created with <"
+        "content": "&copy; Anna-Viktoria Castellano. All rights reserved. This Jamstack site was created by BlackBoxMediaDesign "
     },
     "domain": "https://viktoria-castellano.netlify.app",
     "favicon": "/images/Krönchen.png"
