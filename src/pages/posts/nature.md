@@ -9,7 +9,7 @@ thumb_img_alt: A man fishing in a lake
 excerpt: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.
-hide_header: true
+hide_header: false
 seo:
   type: stackbit_page_meta
   title: My Way to Relax in Nature and Stress Less
