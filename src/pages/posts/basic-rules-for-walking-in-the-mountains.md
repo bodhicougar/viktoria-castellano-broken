@@ -3,7 +3,7 @@ title: Maria Stuart
 date: '2021-05-16'
 thumb_img_path: /images/Maria-11.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
-content_img_path: /images/IMG_7351.jpg
+content_img_path: /images/Maria-69.jpg
 excerpt: >-
   Hiking is sometimes referred to as such. This specifically refers to difficult
   walking through dense forest, undergrowth, or bushes, where forward progress
