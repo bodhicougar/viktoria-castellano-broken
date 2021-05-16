@@ -39,18 +39,18 @@
         "social_links": [
             {
                 "type": "action",
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon_class": "instagram",
-                "new_window": true
-            },
-            {
-                "type": "action",
                 "label": "YouTube",
                 "url": "https://youtu.be/lRIr6VgJkpE",
                 "style": "icon",
                 "icon_class": "youtube",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
+                "style": "icon",
+                "icon_class": "instagram",
                 "new_window": true
             },
             {
