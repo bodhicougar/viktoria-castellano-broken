@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fjord Theme
+      value: Anna-Viktoria Castellano
     - name: 'twitter:description'
       value: Schauspielerin / actress / etc.
     - name: 'twitter:image'
