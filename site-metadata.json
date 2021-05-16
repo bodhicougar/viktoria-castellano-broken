@@ -23,12 +23,6 @@
             },
             {
                 "type": "action",
-                "label": "Zyklus",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "Kontakt",
                 "url": "/contact",
                 "style": "link",
