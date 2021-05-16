@@ -18,7 +18,7 @@
             },
             {
                 "type": "action",
-                "label": "About",
+                "label": "Über mich",
                 "url": "/about",
                 "style": "link"
             },
