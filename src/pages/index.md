@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: Schauspielerin / actress / etc.
     - name: 'twitter:image'
-      value: images/home.jpg
+      value: /images/IMG_7348.jpg
       relativeUrl: true
 template: home
 ---
