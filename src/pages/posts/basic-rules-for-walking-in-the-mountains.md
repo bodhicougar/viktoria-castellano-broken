@@ -1,6 +1,6 @@
 ---
 title: Maria Stuart
-date: '2021-05-16'
+date: '2021-05-12'
 thumb_img_path: /images/Maria-11.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
 content_img_path: /images/Maria-69.jpg
