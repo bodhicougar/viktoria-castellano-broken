@@ -48,7 +48,7 @@
             },
             {
                 "type": "action",
-                "label": "GitHub",
+                "label": "YouTube",
                 "url": "https://github.com/",
                 "style": "icon",
                 "icon_class": "github",
