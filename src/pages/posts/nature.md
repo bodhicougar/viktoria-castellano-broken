@@ -3,7 +3,7 @@ title: Joker
 subtitle: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.
-date: '2021-05-16'
+date: '2021-05-17'
 thumb_img_path: /images/IMG_9128.jpg
 thumb_img_alt: A man fishing in a lake
 excerpt: >-
