@@ -4,7 +4,7 @@ subtitle: A intresting tale about Photography and me
 date: '2018-01-15'
 thumb_img_path: images/8.jpg
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
-content_img_path: images/8.jpg
+content_img_path: /images/_ADR5916.jpg
 excerpt: >-
   Photography is the science, art and practice of creating durable images by
   recording light or other electromagnetic radiation, either electronically by
