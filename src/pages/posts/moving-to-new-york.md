@@ -2,7 +2,7 @@
 title: Wia's kimmt
 subtitle: A cautionary tale about life in New York
 date: '2021-05-11'
-thumb_img_path: /images/bg_wias kimmt-27.jpg
+thumb_img_path: /images/wias kimmt-27.jpg
 thumb_img_alt: Brooklyn Bridge at daytime
 content_img_path: /images/knowledgeable-turmeric.jpg
 excerpt: >-
