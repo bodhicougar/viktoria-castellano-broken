@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work
-img_path: /images/green-kale.jpg
+img_path: /images/_ADR5772.jpg
 seo:
   type: stackbit_page_meta
   title: About Me
