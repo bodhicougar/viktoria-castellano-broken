@@ -36,6 +36,7 @@ form_fields:
     label: >-
       Ich bin einverstanden, dass dieses Formular meine übermittelten
       Informationen speichert, damit ich kontaktiert werden kann.
+    is_required: true
 submit_label: Send Message
 seo:
   type: stackbit_page_meta
