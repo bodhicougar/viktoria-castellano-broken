@@ -24,7 +24,7 @@ form_fields:
     options:
       - Bitte mit mir die Unterlagen schicken
       - Fehler auf den Seiten
-      - Anderes
+      - Übermittlung Lebenslauf
       - Übermittlung Lebenslauf
   - type: form_field
     input_type: textarea
