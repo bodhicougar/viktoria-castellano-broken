@@ -23,7 +23,7 @@ form_fields:
     default_value: Bitte auswählen
     options:
       - Error on the site
-      - Sponsorship
+      - Fehler auf den Seiten
       - Anderes
   - type: form_field
     input_type: textarea
