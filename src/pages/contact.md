@@ -28,7 +28,7 @@ form_fields:
   - type: form_field
     input_type: textarea
     name: message
-    label: Message
+    label: Nachircht
     default_value: Your message
   - type: form_field
     input_type: checkbox
