@@ -66,6 +66,6 @@ seo:
       value: images/contact.jpg
       relativeUrl: true
 template: contact
-subtitle: 'Per '
+subtitle: Per E-Mail Kontakt aufnehmen
 ---
 Formular für Kontaktaufnahme ausfüllen, bitte. 
