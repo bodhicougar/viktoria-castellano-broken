@@ -25,7 +25,7 @@ form_fields:
       - Bitte mit mir die Unterlagen schicken
       - Fehler auf den Seiten
       - Anderes
-      - lorem-ipsum
+      - Übermittlung Lebenslauf
   - type: form_field
     input_type: textarea
     name: message
