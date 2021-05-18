@@ -37,7 +37,7 @@ form_fields:
       Ich bin einverstanden, dass dieses Formular meine übermittelten
       Informationen speichert, damit ich kontaktiert werden kann.
     is_required: true
-submit_label: Send Message
+submit_label: Senden
 seo:
   type: stackbit_page_meta
   title: Get in Touch
