@@ -20,7 +20,7 @@ form_fields:
     input_type: select
     name: subject
     label: Betreff
-    default_value: Please select
+    default_value: Bitte auswählen
     options:
       - Error on the site
       - Sponsorship
