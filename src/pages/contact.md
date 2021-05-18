@@ -66,5 +66,6 @@ seo:
       value: images/contact.jpg
       relativeUrl: true
 template: contact
+subtitle: 'Per '
 ---
 Formular für Kontaktaufnahme ausfüllen, bitte. 
