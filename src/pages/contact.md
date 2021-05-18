@@ -34,8 +34,8 @@ form_fields:
     input_type: checkbox
     name: consent
     label: >-
-      Ich verstehe, dass dieses Formular meine übermittelten Informationen
-      speichert, damit ich kontaktiert werden kann
+      Ich bin einverstanden, dass dieses Formular meine übermittelten
+      Informationen speichert, damit ich kontaktiert werden kann
 submit_label: Send Message
 seo:
   type: stackbit_page_meta
