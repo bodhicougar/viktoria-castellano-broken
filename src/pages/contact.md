@@ -22,7 +22,7 @@ form_fields:
     label: Betreff
     default_value: Bitte auswählen
     options:
-      - Error on the site
+      - Bitte
       - Fehler auf den Seiten
       - Anderes
   - type: form_field
