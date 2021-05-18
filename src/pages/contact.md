@@ -19,7 +19,7 @@ form_fields:
   - type: form_field
     input_type: select
     name: subject
-    label: Subject
+    label: Betreff
     default_value: Please select
     options:
       - Error on the site
