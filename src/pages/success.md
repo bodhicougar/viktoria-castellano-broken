@@ -1,5 +1,5 @@
 ---
-title: Thank You!
+title: Danke! Thank You!
 template: page
 img_path: /images/marvelous-aluminum.jpg
 ---
