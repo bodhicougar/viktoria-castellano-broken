@@ -3,7 +3,7 @@ title: Willkommen! Ich möchte mich vorstellen...
 subtitle: 'Anna-Viktoria Castellano: Schauspielerin.'
 date: '2021-05-16'
 thumb_img_path: /images/IMG_7347.jpg
-thumb_img_alt: A red fox sitting on a meadow
+thumb_img_alt: 'Viktoria Castellano: Immer gut drauf'
 content_img_path: /images/green-mango.jpg
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
