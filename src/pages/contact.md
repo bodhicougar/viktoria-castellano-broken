@@ -23,7 +23,7 @@ form_fields:
     default_value: Bitte auswählen
     options:
       - Bitte mit mir telefonisch Kontakt aufnehmen
-      - Fehler auf den Seiten
+      - Übermittlung Lebenslauf
       - Übermittlung Lebenslauf
       - Sonstiges
   - type: form_field
