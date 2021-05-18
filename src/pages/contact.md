@@ -24,7 +24,7 @@ form_fields:
     options:
       - Bitte mit mir telefonisch Kontakt aufnehmen
       - Übermittlung Lebenslauf
-      - Übermittlung Lebenslauf
+      - Fehler auf Seiten
       - Sonstiges
   - type: form_field
     input_type: textarea
