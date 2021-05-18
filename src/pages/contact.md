@@ -22,7 +22,7 @@ form_fields:
     label: Betreff
     default_value: Bitte auswählen
     options:
-      - Bitte mit mir die Unterlagen schicken
+      - Bitte mit mir mehr Informationen zukommen lassen
       - Fehler auf den Seiten
       - Übermittlung Lebenslauf
       - Sonstiges
