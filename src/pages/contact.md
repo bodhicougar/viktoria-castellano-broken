@@ -24,7 +24,7 @@ form_fields:
     options:
       - Error on the site
       - Sponsorship
-      - Other
+      - Anderes
   - type: form_field
     input_type: textarea
     name: message
