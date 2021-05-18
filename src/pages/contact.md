@@ -66,5 +66,4 @@ seo:
       relativeUrl: true
 template: contact
 ---
-
-To get in touch fill the form below.
+Formular für Kontaktaufnahme ausfüllen, bitte. 
