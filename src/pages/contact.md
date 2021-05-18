@@ -14,7 +14,7 @@ form_fields:
     input_type: email
     name: email
     label: E-Mail Adresse
-    default_value: Your email address
+    default_value: E-Mail Adresse eingeben
     is_required: true
   - type: form_field
     input_type: select
