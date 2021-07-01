@@ -5,7 +5,7 @@ more_link_text: Weiterlesen
 seo:
   type: stackbit_page_meta
   title: Viktoria Castellano
-  description: 'Anna-Viktoria Castellano:Schauspielerin'
+  description: 'Anna-Viktoria Castellano: Schauspielerin'
   extra:
     - name: 'og:type'
       value: website
