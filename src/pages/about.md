@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Über mich
 subtitle: This is a short page about me and my work
 img_path: /images/_ADR5772.jpg
 seo:
@@ -7,26 +7,26 @@ seo:
   title: About Me
   description: A page about me and my work
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: About Me
       keyName: property
-    - name: 'og:description'
+    - name: og:description
       value: A page about me and my work
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: images/about.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: About Me
-    - name: 'twitter:description'
+    - name: twitter:description
       value: A page about me and my work
-    - name: 'twitter:image'
+    - name: twitter:image
       value: images/about.jpg
       relativeUrl: true
 template: page
