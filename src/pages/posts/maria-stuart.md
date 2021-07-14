@@ -10,7 +10,7 @@ excerpt: >-
   requires pushing vegetation aside.
 seo:
   type: stackbit_page_meta
-  title: Basic Rules For Walking In The Mountains
+  title: Maria Stuart
   description: >-
     Hiking refers to difficult walking through dense forest, undergrowth, or
     bushes.
