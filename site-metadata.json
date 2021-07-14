@@ -83,7 +83,7 @@
             },
             {
                 "label": "Galerie",
-                "url": "/galerie",
+                "url": "/galerie1",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
