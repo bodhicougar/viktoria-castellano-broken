@@ -3,7 +3,7 @@ title: Produktionen
 subtitle: This is a short page about me and my work
 seo:
   type: stackbit_page_meta
-  title: About Me
+  title: Produktionen
   description: A page about me and my work
   extra:
     - name: 'og:type'
