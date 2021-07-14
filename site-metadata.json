@@ -75,13 +75,6 @@
                 "type": "action"
             },
             {
-                "type": "action",
-                "label": "Kontakt",
-                "url": "/contact",
-                "style": "link",
-                "new_window": true
-            },
-            {
                 "label": "Galerie",
                 "url": "/galerie1",
                 "style": "link",
@@ -89,6 +82,13 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "type": "action",
+                "label": "Kontakt",
+                "url": "/contact",
+                "style": "link",
+                "new_window": true
             }
         ],
         "has_nav": true
