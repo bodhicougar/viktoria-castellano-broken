@@ -12,9 +12,7 @@ excerpt: >-
 seo:
   type: stackbit_page_meta
   title: Anna-Viktoria Castellano
-  description: >-
-    Apparently, Japan is covered in magical and irresistibly cute animal
-    sanctuaries.
+  description: 'Willkommen auf meinen Seiten: Hier stelle ich mich vor.'
   extra:
     - name: 'og:type'
       value: article
