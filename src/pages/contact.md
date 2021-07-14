@@ -41,7 +41,7 @@ form_fields:
 submit_label: Senden
 seo:
   type: stackbit_page_meta
-  title: Get in Touch
+  title: Contact
   description: This is the contact page
   extra:
     - name: 'og:type'
