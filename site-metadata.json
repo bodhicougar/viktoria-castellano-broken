@@ -66,13 +66,6 @@
                 "style": "link"
             },
             {
-                "type": "action",
-                "label": "Kontakt",
-                "url": "/contact",
-                "style": "link",
-                "new_window": true
-            },
-            {
                 "label": "Produktionen",
                 "url": "/produktionen",
                 "style": "link",
@@ -80,6 +73,13 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "type": "action",
+                "label": "Kontakt",
+                "url": "/contact",
+                "style": "link",
+                "new_window": true
             }
         ],
         "has_nav": true
