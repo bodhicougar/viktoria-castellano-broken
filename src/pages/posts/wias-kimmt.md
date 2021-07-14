@@ -14,7 +14,7 @@ excerpt: >-
 seo:
   type: stackbit_page_meta
   title: Wia's kimmt
-  description: A cautionary tale about life in New York
+  description: Ein tirolerisches Theaterstück mit meiner Mitwirkung.
   extra:
     - name: 'og:type'
       value: article
