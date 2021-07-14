@@ -74,7 +74,7 @@
             },
             {
                 "label": "Produktionen",
-                "url": "#",
+                "url": "/produktionen",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
