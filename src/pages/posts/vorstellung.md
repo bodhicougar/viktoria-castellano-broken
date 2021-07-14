@@ -11,7 +11,7 @@ excerpt: >-
   Japanese architecture.
 seo:
   type: stackbit_page_meta
-  title: Fox Village In Japan
+  title: Anna-Viktoria Castellano
   description: >-
     Apparently, Japan is covered in magical and irresistibly cute animal
     sanctuaries.
