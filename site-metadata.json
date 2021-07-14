@@ -92,7 +92,7 @@
             },
             {
                 "label": "Impressum",
-                "url": "/im",
+                "url": "/impressum",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
