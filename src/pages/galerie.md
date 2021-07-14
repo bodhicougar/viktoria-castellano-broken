@@ -4,7 +4,7 @@ subtitle: This is a short page about me and my work
 seo:
   type: stackbit_page_meta
   title: Gallery
-  description: A page about me and my work
+  description: Galerie
   extra:
     - name: 'og:type'
       value: website
