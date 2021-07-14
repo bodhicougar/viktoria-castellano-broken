@@ -4,7 +4,7 @@ subtitle: This is a short page about me and my work
 seo:
   type: stackbit_page_meta
   title: Impressum
-  description: A page about me and my work
+  description: 'Impressum: Wer, wie, was, warum'
   extra:
     - name: 'og:type'
       value: website
