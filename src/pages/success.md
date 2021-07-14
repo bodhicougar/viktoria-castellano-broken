@@ -4,7 +4,7 @@ template: page
 img_path: /images/marvelous-aluminum.jpg
 seo:
   title: Dankeschön.
-  description: ''
+  description: Erfolgreiche Übertragung.
   robots: []
   extra: []
   type: stackbit_page_meta
