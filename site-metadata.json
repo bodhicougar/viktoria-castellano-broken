@@ -51,6 +51,12 @@
                 "style": "link"
             },
             {
+                "type": "action",
+                "label": "Über mich",
+                "url": "/about",
+                "style": "link"
+            },
+            {
                 "label": "Aktuelles",
                 "url": "/aktuelles",
                 "style": "link",
@@ -58,12 +64,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "type": "action",
-                "label": "Über mich",
-                "url": "/about",
-                "style": "link"
             },
             {
                 "label": "Produktionen",
