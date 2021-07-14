@@ -51,6 +51,15 @@
                 "style": "link"
             },
             {
+                "label": "Aktuelles",
+                "url": "/aktuelles",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "type": "action",
                 "label": "Über mich",
                 "url": "/about",
@@ -62,15 +71,6 @@
                 "url": "/contact",
                 "style": "link",
                 "new_window": true
-            },
-            {
-                "label": "Aktuelles",
-                "url": "/aktuelles",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "has_nav": true
