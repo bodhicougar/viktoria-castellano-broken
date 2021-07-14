@@ -1,7 +1,7 @@
 ---
 title: Über mich
 subtitle: This is a short page about me and my work
-img_path: /images/_ADR5772.jpg
+img_path: /images/_ADR5848.jpg
 seo:
   type: stackbit_page_meta
   title: About Me
