@@ -1,111 +1,111 @@
 {
-    "title": "Anna-Viktoria Castellano",
-    "palette": "yellow",
-    "header": {
-        "social_links": [
-            {
-                "type": "action",
-                "label": "YouTube",
-                "url": "https://youtu.be/lRIr6VgJkpE",
-                "style": "icon",
-                "icon_class": "youtube",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "label": "Instagram",
-                "url": "https://www.instagram.com/viktoriacastellano/",
-                "style": "icon",
-                "icon_class": "instagram",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "label": "Facebook",
-                "url": "https://www.facebook.com/viktoriashiva.castellano",
-                "style": "icon",
-                "icon_class": "facebook",
-                "new_window": true
-            },
-            {
-                "url": "https://www.youtube.com/watch?v=FSl0nf-p3XA",
-                "style": "icon",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action",
-                "icon_class": "youtube",
-                "label": "Musikvideo"
-            }
-        ],
-        "tagline": "Schauspielerin",
-        "has_social": true,
-        "background_img": "/images/bg_ADR5848.jpg",
-        "title": "Viktoria Castellano",
-        "logo_img_alt": "Viktoria's Logo",
-        "type": "header",
-        "nav_links": [
-            {
-                "type": "action",
-                "label": "Start",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "label": "Aktuelles",
-                "url": "/aktuelles",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
-                "type": "action",
-                "label": "Über mich",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Produktionen",
-                "url": "/produktionen",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
-                "label": "Galerie",
-                "url": "/galerie",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
-                "type": "action",
-                "label": "Kontakt",
-                "url": "/contact",
-                "style": "link",
-                "new_window": true
-            },
-            {
-                "label": "Impressum",
-                "url": "/impressum",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ],
-        "has_nav": true
-    },
-    "footer": {
-        "type": "footer",
-        "content": "&copy; Anna-Viktoria Castellano. All rights reserved. This Jamstack site was created by BlackBoxMediaDesign OÜ."
-    },
-    "domain": "https://viktoria-castellano.netlify.app",
-    "favicon": "/images/Krönchen.png"
+  "title": "Anna-Viktoria Castellano",
+  "palette": "yellow",
+  "header": {
+    "social_links": [
+      {
+        "type": "action",
+        "label": "YouTube",
+        "url": "https://youtu.be/lRIr6VgJkpE",
+        "style": "icon",
+        "icon_class": "youtube",
+        "new_window": true
+      },
+      {
+        "type": "action",
+        "label": "Instagram",
+        "url": "https://www.instagram.com/viktoriacastellano/",
+        "style": "icon",
+        "icon_class": "instagram",
+        "new_window": true
+      },
+      {
+        "type": "action",
+        "label": "Facebook",
+        "url": "https://www.facebook.com/viktoriashiva.castellano",
+        "style": "icon",
+        "icon_class": "facebook",
+        "new_window": true
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=FSl0nf-p3XA",
+        "style": "icon",
+        "new_window": true,
+        "no_follow": false,
+        "type": "action",
+        "icon_class": "youtube",
+        "label": "Musikvideo"
+      }
+    ],
+    "tagline": "Schauspielerin",
+    "has_social": true,
+    "background_img": "/images/caring-squid.jpg",
+    "title": "Viktoria Castellano",
+    "logo_img_alt": "Viktoria's Logo",
+    "type": "header",
+    "nav_links": [
+      {
+        "type": "action",
+        "label": "Start",
+        "url": "/",
+        "style": "link"
+      },
+      {
+        "label": "Aktuelles",
+        "url": "/aktuelles",
+        "style": "link",
+        "icon_class": "dev",
+        "new_window": false,
+        "no_follow": false,
+        "type": "action"
+      },
+      {
+        "type": "action",
+        "label": "Über mich",
+        "url": "/about",
+        "style": "link"
+      },
+      {
+        "label": "Produktionen",
+        "url": "/produktionen",
+        "style": "link",
+        "icon_class": "dev",
+        "new_window": false,
+        "no_follow": false,
+        "type": "action"
+      },
+      {
+        "label": "Galerie",
+        "url": "/galerie",
+        "style": "link",
+        "icon_class": "dev",
+        "new_window": false,
+        "no_follow": false,
+        "type": "action"
+      },
+      {
+        "type": "action",
+        "label": "Kontakt",
+        "url": "/contact",
+        "style": "link",
+        "new_window": true
+      },
+      {
+        "label": "Impressum",
+        "url": "/impressum",
+        "style": "link",
+        "icon_class": "dev",
+        "new_window": false,
+        "no_follow": false,
+        "type": "action"
+      }
+    ],
+    "has_nav": true
+  },
+  "footer": {
+    "type": "footer",
+    "content": "&copy; Anna-Viktoria Castellano. All rights reserved. This Jamstack site was created by BlackBoxMediaDesign OÜ."
+  },
+  "domain": "https://viktoria-castellano.netlify.app",
+  "favicon": "/images/Krönchen.png"
 }
