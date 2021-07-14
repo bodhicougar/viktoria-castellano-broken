@@ -3,7 +3,7 @@ title: Danke!
 template: page
 img_path: /images/marvelous-aluminum.jpg
 seo:
-  title: ''
+  title: Dankeschön.
   description: ''
   robots: []
   extra: []
