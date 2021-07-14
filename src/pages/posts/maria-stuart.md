@@ -11,9 +11,7 @@ excerpt: >-
 seo:
   type: stackbit_page_meta
   title: Maria Stuart
-  description: >-
-    Hiking refers to difficult walking through dense forest, undergrowth, or
-    bushes.
+  description: Shakespeare's Maria Stuart mit meiner Mitwirkung.
   extra:
     - name: 'og:type'
       value: article
