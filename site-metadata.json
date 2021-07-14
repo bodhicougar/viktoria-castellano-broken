@@ -37,7 +37,7 @@
         "label": "Musikvideo"
       }
     ],
-    "tagline": "Schauspielerin",
+    "tagline": "Actress",
     "has_social": true,
     "background_img": "/images/caring-squid.jpg",
     "title": "Viktoria Castellano",
@@ -49,15 +49,6 @@
         "label": "Start",
         "url": "/",
         "style": "link"
-      },
-      {
-        "label": "Aktuelles",
-        "url": "/aktuelles",
-        "style": "link",
-        "icon_class": "dev",
-        "new_window": false,
-        "no_follow": false,
-        "type": "action"
       },
       {
         "type": "action",
