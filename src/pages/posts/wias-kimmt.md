@@ -13,7 +13,7 @@ excerpt: >-
   in the United States.
 seo:
   type: stackbit_page_meta
-  title: Few Things I Wish I Knew Before I Moved to New York
+  title: Wia's kimmt
   description: A cautionary tale about life in New York
   extra:
     - name: 'og:type'
