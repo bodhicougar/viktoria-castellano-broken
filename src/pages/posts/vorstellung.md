@@ -1,6 +1,6 @@
 ---
 title: "CoVideo News.TV "
-subtitle: ""
+subtitle: "Theater im Sudhaus "
 date: 2021-07-17T22:00:00.000Z
 thumb_img_path: /images/Screenshot 2020-09-06 22.57.09.png
 thumb_img_alt: "Viktoria Castellano: Immer gut drauf!"
