@@ -23,20 +23,20 @@ form_fields:
     label: "Subject "
     default_value: ""
     options:
-      - Bitte mit mir telefonisch Kontakt aufnehmen
-      - Übermittlung Lebenslauf
-      - Fehler auf Seiten
-      - Sonstiges
+      - "Please contact me via phone "
+      - "Submission of vita "
+      - "Error on the page "
+      - "Contact me via E-mail "
   - type: form_field
     input_type: textarea
     name: message
-    label: Nachricht
-    default_value: Ihre Nachricht
+    label: "Message "
+    default_value: "Your message "
   - type: form_field
     input_type: checkbox
     name: consent
-    label: Ich bin einverstanden, dass dieses Formular meine übermittelten
-      Informationen speichert, damit ich kontaktiert werden kann.
+    label: "I agree this website saves my submitted information so that I can be
+      contacted "
     is_required: true
 submit_label: "Send "
 seo:
