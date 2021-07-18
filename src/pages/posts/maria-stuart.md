@@ -1,46 +1,43 @@
 ---
-title: Maria Stuart
-date: '2021-05-12'
-thumb_img_path: /images/Maria-11.jpg
+title: "Actros Degree "
+subtitle: "By the commission of performing Arts in Vienna "
+date: 2021-05-11T22:00:00.000Z
+thumb_img_path: /images/Screenshot 2020-09-06 22.57.09.png
 thumb_img_alt: A man standing on a rock cliff overlooking a river
 content_img_path: /images/great-squid.jpg
-excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+excerpt: Hiking is sometimes referred to as such. This specifically refers to
+  difficult walking through dense forest, undergrowth, or bushes, where forward
+  progress requires pushing vegetation aside.
 seo:
   type: stackbit_page_meta
   title: Maria Stuart
   description: Shakespeare's Maria Stuart mit meiner Mitwirkung.
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: article
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: Basic Rules For Walking In The Mountains
       keyName: property
-    - name: 'og:description'
-      value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
+    - name: og:description
+      value: Hiking refers to difficult walking through dense forest, undergrowth, or
         bushes.
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: images/1.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: Basic Rules For Walking In The Mountains
-    - name: 'twitter:description'
-      value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
+    - name: twitter:description
+      value: Hiking refers to difficult walking through dense forest, undergrowth, or
         bushes.
-    - name: 'twitter:image'
+    - name: twitter:image
       value: images/1.jpg
       relativeUrl: true
 template: post
-subtitle: Produktion September 2019
 ---
 ![](/images/Maria-124.jpg)
 
