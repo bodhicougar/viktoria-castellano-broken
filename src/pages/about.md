@@ -1,7 +1,7 @@
 ---
 title: "About me "
 subtitle: ""
-img_path: /images/_ADR5848.jpg
+img_path: /images/green-kale.jpg
 seo:
   type: stackbit_page_meta
   title: About Me
