@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 template: page
 ---
-Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an Italian-Austrian actress.
+Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an Italian-German actress.
 
 From a very young age, Viktoria had a strong compassion for art. Painting, drawing, acting, writing and music have always been a part of her everyday life. She attended the European school in Italy and consequently speaks five languages. She has always been fond of sports and practices horse riding, skiing, surfing and ice skating.
 
