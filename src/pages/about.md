@@ -39,6 +39,6 @@ As a teenager she moved to Austria and began an apprenticeship as a hotel and ca
 
 In the meantime, aged 22, she resumed work at the theatre. As a result, she acted on stage for the “Haller Burgsommer” for two years under the direction of Elmar Drexel and in 2017 she joined the team of “Bogentheater” located in Innsbruck.
 
-One year later, she got her first leading part in a one-act play and in 2019, she starred as Mary Stuart in a modern adaption of the drama for “Projekttheater Hall” in Tyrol.
+One year later, she got her first leading part in a one-act play and in 2019, she starred as Queen Mary Stuart in a modern adaption of the drama for “Projekttheater Hall” in Tyrol.
 
 Since 2020, Viktoria has been working on an actress´s degree at the “Paritätische Kommission” in Vienna, which she is expected to get in 2022.
