@@ -31,3 +31,6 @@ seo:
       relativeUrl: true
 template: page
 ---
+**Content Manager:** Viktoria Castellano 
+
+Pictures Copyright: Viktoria Castellano, Lisa Wöss, Adrian Salchner
