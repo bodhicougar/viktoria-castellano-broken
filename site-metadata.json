@@ -28,13 +28,13 @@
         "new_window": true
       },
       {
-        "url": "https://www.youtube.com/watch?v=FSl0nf-p3XA",
+        "url": "https://www.bogentheater.at/verein/team",
         "style": "icon",
         "new_window": true,
         "no_follow": false,
         "type": "action",
-        "icon_class": "youtube",
-        "label": "Musikvideo"
+        "icon_class": "dev",
+        "label": "Team Bogentheater "
       }
     ],
     "tagline": "Actress",
