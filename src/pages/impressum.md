@@ -33,4 +33,4 @@ template: page
 ---
 **Content Manager:** Viktoria Castellano 
 
-Pictures Copyright: Viktoria Castellano, Lisa Wöss, Adrian Salchner
+Copyright: Viktoria Castellano, Lisa Wöss, Adrian Salchner
