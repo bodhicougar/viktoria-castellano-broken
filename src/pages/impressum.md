@@ -4,8 +4,8 @@ subtitle: ""
 img_path: /images/DSC0E0999.jpg
 seo:
   type: stackbit_page_meta
-  title: Impressum
-  description: "Impressum: Wer, wie, was, warum"
+  title: Legal Disclosure
+  description: "Legal Disclosure: Who, how, what, why"
   extra:
     - name: og:type
       value: website
