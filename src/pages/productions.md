@@ -68,3 +68,39 @@ Viktoria starred as the wife of an alcoholic
 June 2017
 
 In this romantic-comedic drama, Viktoria cast the role as the “girl who sells flowers” – again at the side of Brigitte Jaufenthaler, Ronja Forcher and the ensemble “Theaterhaufen Hall”.
+
+**Allegory of pain for the opening of the vernissage “SENS IT (L) IVE”, by Lisa Wöss**
+
+October 2017
+
+Location: DIE BÄCKEREI, Innsbruck
+
+Viktoria staged the pain and the birth of art
+
+*<https://www.liz-aw-visualization.com/exhibitions-references/2017-sens-it-l-ive/>*
+
+PERFORMANCE TEXT (OPENING TEXT) 
+
+Pictures, consisting of lines, dots, forms which are sums of points. Of wound points. Of pain points. 
+
+Art is born in pain.
+
+Birth is pain. 
+
+Opening the eyes of this body you live in for this world facing gravity is pain. 
+
+Pain leads to opened eyes, to opened senses if you do not try to avoid it because you interpret fear in a wrong way. Fear is the Signal of pain. 
+
+If we could avoid gravity, we would. So we try to avoid pain, which is impossible when it comes to life.
+
+Pain is the inverse vector on gravity, conjunction, the spin of life.
+
+Solving the everything into the nothing, binding the nothing into the everything in every direction and the other way around. A round melting to origin.
+
+If the smallest we can visualize is a point, then the point could widen into a circle. 
+
+Both have no beginning and no end. Beginning and end are human creations out of fear, interpreting this signal in a blind way by not looking at it. Stop trying to value or devalue feelings for not having to stop anymore, for being able to grow, for being in the flow. Imagine all minds as points in a waving picture, always changing their form. 
+
+Pain is a feeling, feelings are the only things that are real, for sure. Surreal surrounding point of view in a picture that can be visualized, seen, sensed and felt. Feelings are the constant of human beings, the connection in the solvation. 
+
+Pain gives birth. Birth gives pain. The imagination of beginning and end has been dissolved by sensing the picture of gravitiy and pain.
