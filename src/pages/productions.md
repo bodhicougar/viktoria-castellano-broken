@@ -95,3 +95,30 @@ Pain is a feeling, feelings are the only things that are real, for sure. Surreal
 Pain gives birth. Birth gives pain. The imagination of beginning and end has been dissolved by sensing the picture of gravity and pain.
 
 ![Contribution to Allegory of pain](/images/allegory-of-pain.png)
+
+„**Wias kimm’t“ – Bogentheater Innsbruck, directed by Katharina Schwaiger,\
+written by Stephanie Larcher-Senn**
+
+October-November 2018
+
+In the early 1960’s, a boy and a girl fall in love with each other. As a result, she gets unexpectedly pregnant. But back then having a child as an unmarried couple was a sin. The girl’s strict mother insists on a quick wedding, preferably before the child gets born. The young couple tries, therefore, to fix a wedding date with the local pastor – which turns out to be more difficult as expected.
+
+![](file:///tmp/lu160370wwng17.tmp/lu160370wwng1v_tmp_2dc7920b0797204a.jpg) **Cast:**
+
+**The girl**Viktoria Castellano
+
+**The boy**[Jakob Rosin](https://www.bogentheater.at/verein/team/vorstand/5/jakob-rosin)
+
+**Mother**[Sandra Klein](https://www.bogentheater.at/verein/team/mitglieder/12/sandra-klein)
+
+**Pastor**[Simon Hölzl](https://www.bogentheater.at/verein/team/ehemalige-mitglieder/31/simon-holzl)
+
+**Directed by**[Jakob Rosin](https://www.bogentheater.at/verein/team/vorstand/5/jakob-rosin)[Katharina Schwaiger](https://www.bogentheater.at/verein/team/vorstand/3/katharina-schwaiger)
+
+**Written by**[Stephanie Larcher-Senn](https://www.bogentheater.at/verein/team/vorstand/1/stephanie-larcher-senn)
+
+![Contribution to Wia's kimmt](/images/wias kimmt-40.jpg)
+
+*<https://www.bogentheater.at/archiv/138/querkopfe>*
+
+*<https://www.bogentheater.at/verein/team>*
