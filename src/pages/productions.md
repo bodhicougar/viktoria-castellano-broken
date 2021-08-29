@@ -198,3 +198,9 @@ Kurt Benkovic
 *<https://www.youtube.com/watch?v=uWMJhbl3TyM>*
 
 *<https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580>*
+
+\
+\
+Extra in ORF / ARTE feature film “The Lederhosen Affair” as a press representative
+
+September 2020
