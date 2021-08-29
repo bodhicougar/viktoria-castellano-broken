@@ -74,7 +74,18 @@ Pictures, consisting of lines, dots, forms which are sums of points. Of wound po
 
 Art is born in pain.
 
-Birth is pain. 
+John Doe is a Senior Art Director from Stockholm, Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+
+His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+
+The world always seems brighter when you’ve just made something that wasn’t there before. 
+<cite>
+Neil Gaiman
+</cite>
+
+As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+
+Thank You for reading!Birth is pain. 
 
 Opening the eyes of this body you live in for this world facing gravity is pain. 
 
@@ -103,19 +114,25 @@ October-November 2018
 
 In the early 1960’s, a boy and a girl fall in love with each other. As a result, she gets unexpectedly pregnant. But back then having a child as an unmarried couple was a sin. The girl’s strict mother insists on a quick wedding, preferably before the child gets born. The young couple tries, therefore, to fix a wedding date with the local pastor – which turns out to be more difficult as expected.
 
-![](file:///tmp/lu160370wwng17.tmp/lu160370wwng1v_tmp_2dc7920b0797204a.jpg) **Cast:**
+**Cast:**
 
-**The girl**Viktoria Castellano
+**The girl**\
+Viktoria Castellano
 
-**The boy**[Jakob Rosin](https://www.bogentheater.at/verein/team/vorstand/5/jakob-rosin)
+**The boy**\
+[Jakob Rosin](https://www.bogentheater.at/verein/team/vorstand/5/jakob-rosin)
 
-**Mother**[Sandra Klein](https://www.bogentheater.at/verein/team/mitglieder/12/sandra-klein)
+**Mother**\
+[Sandra Klein](https://www.bogentheater.at/verein/team/mitglieder/12/sandra-klein)
 
-**Pastor**[Simon Hölzl](https://www.bogentheater.at/verein/team/ehemalige-mitglieder/31/simon-holzl)
+**Pastor**\
+[Simon Hölzl](https://www.bogentheater.at/verein/team/ehemalige-mitglieder/31/simon-holzl)
 
-**Directed by**[Jakob Rosin](https://www.bogentheater.at/verein/team/vorstand/5/jakob-rosin)[Katharina Schwaiger](https://www.bogentheater.at/verein/team/vorstand/3/katharina-schwaiger)
+**Directed by**\
+[Jakob Rosin](https://www.bogentheater.at/verein/team/vorstand/5/jakob-rosin)[Katharina Schwaiger](https://www.bogentheater.at/verein/team/vorstand/3/katharina-schwaiger)
 
-**Written by**[Stephanie Larcher-Senn](https://www.bogentheater.at/verein/team/vorstand/1/stephanie-larcher-senn)
+**Written by**\
+[Stephanie Larcher-Senn](https://www.bogentheater.at/verein/team/vorstand/1/stephanie-larcher-senn)
 
 ![Contribution to Wia's kimmt](/images/wias kimmt-40.jpg)
 
@@ -133,64 +150,64 @@ Due to the #metoo debate in 2018, the Tyrolean author Lina Hofstädter dealt wit
 
 The author illustrates the principle of the patriarchal society at that time and allows us to draw parallels to our today’s world.
 
-![](file:///tmp/lu160370wwng17.tmp/lu160370wwng1x_tmp_6fdb77bcf72ba535.jpg)**Cast:**
+**Cast:**
 
-Maria Stuart\
+**Maria Stuart**\
 Viktoria Castellano\
 \
-François/Riccio\
+**François/Riccio**\
 Joseph Villinger
 
-Katharina/Lady/Maid\
+**Katharina/Lady/Maid**\
 Eva Kuster
 
-James Steward/Morton\
+**James Steward/Morton**\
 René Orbini
 
-Maitland/Man\
+**Maitland/Man**\
 Erich Thummer\
 \
-John Knox/Man\
+**John Knox/Man**\
 Bruno Graber
 
-Lord Darnley\
+**Lord Darnley**\
 Lukas Singer
 
-Mary Seton/Lady/Maid\
+**Mary Seton/Lady/Maid**\
 Vanessa Eberharter
 
-Earl of Bothwell\
+**Earl of Bothwell**\
 Jakob Rosin\
 \
-Maid\
+**Maid**\
 Astrid Oberwimmer\
 \
-Bodyguard\
+**Bodyguard**\
 Benjamin Nicolussi-Castellan\
 \
-Stage & lighting design\
+**Stage & lighting design**\
 Peter Holzer\
 Kurt Benkovic
 
-Light and Sound\
+**Light and Sound**\
 Arthur Bliem\
 \
-Costumes\
+**Costumes**\
 LEA-Production school\
 \
-Music\
+**Music**\
 Klemens Wolf, Hanno Winder\
 \
-Video\
+**Video**\
 Christoph Lunzer, Sarah Rendel, Phillipp Walser\
 \
-Furniture maker\
+**Furniture maker**\
 Erwin Schreckensperger
 
-Production assistant\
+**Production assistant**\
 Fred Salvator
 
-Direction, overall management\
+**Direction, overall management**\
 Kurt Benkovic
 
 *<http://www.projekttheater-hall.at/portfolio/maria-koenigin>*
@@ -210,7 +227,7 @@ September 2020
 
 October 2021
 
-The young Tyrolean author Sarah Milena Rendel (born in 1992) dealt with the impact of the pandemic on private news television in 2020. As a result, she wrote a comedy which illuminates the gender roles of both men and women in this work field. The transmission of news in permanent live broadcasts offers quite a few surprises and due to the isolation to the world, lots of intrigues can be spun in order to rise up the career ladder.
+The young Tyrolean author Sarah Milena Rendel (born in 1992) dealt with the impact of the pandemic on private news television in 2020. As a result, she wrote a comedy that illuminates the gender roles of both men and women in this work field. The transmission of news in permanent live broadcasts offers quite a few surprises and due to the isolation to the world, lots of intrigues can be spun in order to rise up the career ladder.
 
 **Cast:**
 
