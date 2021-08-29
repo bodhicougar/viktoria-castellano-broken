@@ -210,7 +210,7 @@ September 2020
 
 October 2021
 
-The young Tyrolean author Sarah Milena Rendel (born in 1992) dealt with the impact of the pandemic on private news television in 2020. As a result, she wrote a comedy which illuminates the gender roles of both men and women in this work field. The transmission of news in permanent live broadcasts offers quite a few surprises and due to the isolation to the world, lots of intrigues can be spinned in order to rise up the career ladder.
+The young Tyrolean author Sarah Milena Rendel (born in 1992) dealt with the impact of the pandemic on private news television in 2020. As a result, she wrote a comedy which illuminates the gender roles of both men and women in this work field. The transmission of news in permanent live broadcasts offers quite a few surprises and due to the isolation to the world, lots of intrigues can be spun in order to rise up the career ladder.
 
 **Cast:**
 
