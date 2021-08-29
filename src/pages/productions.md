@@ -1,39 +1,39 @@
 ---
 title: Productions
-subtitle: ""
+subtitle: ''
 img_path: /images/_ADR5824.jpg
 seo:
   type: stackbit_page_meta
   title: Productions
   description: Productions I took part in
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: About Me
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: A page about me and my work
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/about.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: About Me
-    - name: twitter:description
+    - name: 'twitter:description'
       value: A page about me and my work
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
 template: page
 ---
 „**Frau Suitner“ – Haller Burgsommer, directed by Elmar Drexel, written by Karl Schönherr**
 
-*<https://www.youtube.com/watch?v=96OH-mx8wBU>*
+[*https://www.youtube.com/watch?v=96OH-mx8wBU*](https://www.youtube.com/watch?v=96OH-mx8wBU)
 
 June 2016
 
@@ -47,7 +47,7 @@ February 2017
 
 Viktoria starred as the wife of an alcoholic
 
-*<https://www.youtube.com/watch?v=FSl0nf-p3XA>*
+[*https://www.youtube.com/watch?v=FSl0nf-p3XA*](https://www.youtube.com/watch?v=FSl0nf-p3XA)
 
 ![Contribution to Evil man](/images/evil-man.jpg)
 
@@ -66,7 +66,7 @@ Location: DIE BÄCKEREI, Innsbruck
 
 Viktoria staged the pain and the birth of art
 
-*<https://www.liz-aw-visualization.com/exhibitions-references/2017-sens-it-l-ive/>*
+[*https://www.liz-aw-visualization.com/exhibitions-references/2017-sens-it-l-ive/*](https://www.liz-aw-visualization.com/exhibitions-references/2017-sens-it-l-ive/)
 
 PERFORMANCE TEXT (OPENING TEXT) 
 
@@ -74,18 +74,7 @@ Pictures, consisting of lines, dots, forms which are sums of points. Of wound po
 
 Art is born in pain.
 
-John Doe is a Senior Art Director from Stockholm, Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
-
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
-The world always seems brighter when you’ve just made something that wasn’t there before. 
-<cite>
-Neil Gaiman
-</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-Thank You for reading!Birth is pain. 
+Birth is pain. 
 
 Opening the eyes of this body you live in for this world facing gravity is pain. 
 
@@ -93,7 +82,7 @@ Pain leads to opened eyes, to opened senses if you do not try to avoid it becaus
 
 If we could avoid gravity, we would. So we try to avoid pain, which is impossible when it comes to life.
 
-Pain is the inverse vector on gravity, conjunction, the spin of life.
+Pain is the inverse vector of gravity, conjunction, the spin of life.
 
 Solving the everything into the nothing, binding the nothing into the everything in every direction and the other way around. A round melting to origin.
 
@@ -107,12 +96,12 @@ Pain gives birth. Birth gives pain. The imagination of beginning and end has bee
 
 ![Contribution to Allegory of pain](/images/allegory-of-pain.png)
 
-„**Wias kimm’t“ – Bogentheater Innsbruck, directed by Katharina Schwaiger,\
-written by Stephanie Larcher-Senn**
+„**Wias kimm’t“ – Bogentheater Innsbruck, directed by Katharina Schwaiger,**\
+**written by Stephanie Larcher-Senn**
 
 October-November 2018
 
-In the early 1960’s, a boy and a girl fall in love with each other. As a result, she gets unexpectedly pregnant. But back then having a child as an unmarried couple was a sin. The girl’s strict mother insists on a quick wedding, preferably before the child gets born. The young couple tries, therefore, to fix a wedding date with the local pastor – which turns out to be more difficult as expected.
+In the early 1960s, a boy and a girl fall in love with each other. As a result, she gets unexpectedly pregnant. But back then, having a child as an unmarried couple was a sin. The girl’s strict mother insists on a quick wedding, preferably before the child gets born. The young couple tries, therefore, to fix a wedding date with the local pastor – which turns out to be more difficult than expected.
 
 **Cast:**
 
@@ -134,15 +123,15 @@ Viktoria Castellano
 **Written by**\
 [Stephanie Larcher-Senn](https://www.bogentheater.at/verein/team/vorstand/1/stephanie-larcher-senn)
 
-![Contribution to Wia's kimmt](/images/wias kimmt-40.jpg)
+!\[Contribution to Wia's kimmt]\(/images/wias kimmt-40.jpg)
 
-*<https://www.bogentheater.at/archiv/138/querkopfe>*
+[*https://www.bogentheater.at/archiv/138/querkopfe*](https://www.bogentheater.at/archiv/138/querkopfe)
 
-*<https://www.bogentheater.at/verein/team>*
+[*https://www.bogentheater.at/verein/team*](https://www.bogentheater.at/verein/team)
 
 \
-**Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovic\
-written by Lina Hofstädter**
+**Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovic**\
+**written by Lina Hofstädter**
 
 October - November – December 2019
 
@@ -210,11 +199,11 @@ Fred Salvator
 **Direction, overall management**\
 Kurt Benkovic
 
-*<http://www.projekttheater-hall.at/portfolio/maria-koenigin>*
+[*http://www.projekttheater-hall.at/portfolio/maria-koenigin*](http://www.projekttheater-hall.at/portfolio/maria-koenigin)
 
-*<https://www.youtube.com/watch?v=uWMJhbl3TyM>*
+[*https://www.youtube.com/watch?v=uWMJhbl3TyM*](https://www.youtube.com/watch?v=uWMJhbl3TyM)
 
-*<https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580>*
+[*https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580*](https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580)
 
 ![Contribution to Mary Stewart](/images/maria-stewart-close-up.jpg)
 
@@ -278,4 +267,4 @@ Klex Wolf\
 Furniture maker\
 Erwin Schreckensperger
 
-*<http://www.projekttheater-hall.at/portfolio/provideonews-tv>*
+[*http://www.projekttheater-hall.at/portfolio/provideonews-tv*](http://www.projekttheater-hall.at/portfolio/provideonews-tv)
