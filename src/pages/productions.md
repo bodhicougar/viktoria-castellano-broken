@@ -199,6 +199,8 @@ Kurt Benkovic
 
 *<https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580>*
 
+![Contribution to Mary Stewart](/images/maria-stewart-close-up.jpg)
+
 \
 \
 Extra in ORF / ARTE feature film “The Lederhosen Affair” as a press representative
