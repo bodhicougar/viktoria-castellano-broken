@@ -122,3 +122,55 @@ In the early 1960’s, a boy and a girl fall in love with each other. As a resul
 *<https://www.bogentheater.at/archiv/138/querkopfe>*
 
 *<https://www.bogentheater.at/verein/team>*
+
+\
+**Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovic\
+written by Lina Hofstädter**
+
+October - November – December 2019
+
+Due to the #metoo debate in 2018, the Tyrolean author Lina Hofstädter dealt with the life of Maria Stuart. She focused on the Scottish Queen’s younger years - starting from where Maria becomes queen of France at the age of 17. After her Husband’s death, she returns to Scotland and reigns there until she has to flee to England at the age of 26. In the 16th century, Scotland and England were both ruled by women. Folks and nobility considered this as a violation to the natural order – where the man is the crown of creation and head of the family. A woman must submit to his will.
+
+The author illustrates the principle of the patriarchal society at that time and allows us to draw parallels to our today’s world.
+
+![](file:///tmp/lu160370wwng17.tmp/lu160370wwng1x_tmp_6fdb77bcf72ba535.jpg) **Cast:**
+
+Maria Stuart\
+Viktoria Castellano\
+\
+François/Riccio\
+Joseph Villinger
+
+Katharina/Lady/Maid\
+Eva Kuster
+
+James Steward/Morton\
+René Orbini
+
+Maitland/Man\
+Erich Thummer\
+\
+John Knox/Man\
+Bruno Graber
+
+Lord Darnley\
+Lukas Singer
+
+Mary Seton/Lady/Maid\
+Vanessa Eberharter
+
+Earl of Bothwell\
+Jakob Rosin\
+\
+Maid\
+Astrid Oberwimmer\
+\
+Bodyguard\
+Benjamin Nicolussi-Castellan\
+\
+Stage & lighting design\
+Peter Holzer\
+Kurt Benkovic
+
+Light and Sound\
+Arthur Bliem
