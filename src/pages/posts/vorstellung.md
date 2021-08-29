@@ -3,13 +3,13 @@ title: "CoVideo News.TV "
 subtitle: "Theater im Sudhaus "
 date: 2021-07-17T22:00:00.000Z
 thumb_img_path: /images/Screenshot 2020-09-06 22.57.09.png
-thumb_img_alt: "Viktoria Castellano: Immer gut drauf!"
+thumb_img_alt: Viktoria Castellano in action
 content_img_path: /images/green-mango.jpg
-excerpt: "Vorschau Text "
+excerpt: Preview
 seo:
   type: stackbit_page_meta
   title: Anna-Viktoria Castellano
-  description: "Willkommen auf meinen Seiten: Hier stelle ich mich vor."
+  description: Welcome! Let me introduce myself
   extra:
     - name: og:type
       value: article
