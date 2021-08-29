@@ -1,11 +1,11 @@
 ---
-title: Galerie
+title: Gallery
 subtitle: This is a short page about me and my work
 img_path: ""
 seo:
   type: stackbit_page_meta
   title: Gallery
-  description: Galerie
+  description: Pictures
   extra:
     - name: og:type
       value: website
