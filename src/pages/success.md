@@ -1,5 +1,5 @@
 ---
-title: Thank you.
+title: Thank you
 img_path: /images/marvelous-aluminum.jpg
 seo:
   title: Thank you.
