@@ -1,14 +1,14 @@
 ---
-title: Danke!
-template: page
+title: Thank you.
 img_path: /images/marvelous-aluminum.jpg
 seo:
-  title: Dankeschön.
-  description: Erfolgreiche Übertragung.
+  title: Thank you.
+  description: Transmission was successful.
   robots: []
   extra: []
   type: stackbit_page_meta
+template: page
 ---
-Danke für die Kontaktaufnahme. Ich werde mich - sobald mir möglich - melden.
+Thank you for getting in contact with me. I will get back to you as soon as I can.
 
 **Servus!**
