@@ -104,3 +104,5 @@ Both have no beginning and no end. Beginning and end are human creations out of 
 Pain is a feeling, feelings are the only things that are real, for sure. Surreal surrounding point of view in a picture that can be visualized, seen, sensed and felt. Feelings are the constant of human beings, the connection in the solvation. 
 
 Pain gives birth. Birth gives pain. The imagination of beginning and end has been dissolved by sensing the picture of gravity and pain.
+
+![Contribution to Allegory of pain](/images/allegory-of-pain.png)
