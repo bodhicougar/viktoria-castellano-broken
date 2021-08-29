@@ -133,7 +133,7 @@ Due to the #metoo debate in 2018, the Tyrolean author Lina Hofstädter dealt wit
 
 The author illustrates the principle of the patriarchal society at that time and allows us to draw parallels to our today’s world.
 
-![](file:///tmp/lu160370wwng17.tmp/lu160370wwng1x_tmp_6fdb77bcf72ba535.jpg) **Cast:**
+![](file:///tmp/lu160370wwng17.tmp/lu160370wwng1x_tmp_6fdb77bcf72ba535.jpg)**Cast:**
 
 Maria Stuart\
 Viktoria Castellano\
@@ -173,4 +173,28 @@ Peter Holzer\
 Kurt Benkovic
 
 Light and Sound\
-Arthur Bliem
+Arthur Bliem\
+\
+Costumes\
+LEA-Production school\
+\
+Music\
+Klemens Wolf, Hanno Winder\
+\
+Video\
+Christoph Lunzer, Sarah Rendel, Phillipp Walser\
+\
+Furniture maker\
+Erwin Schreckensperger
+
+Production assistant\
+Fred Salvator
+
+Direction, overall management\
+Kurt Benkovic
+
+*<http://www.projekttheater-hall.at/portfolio/maria-koenigin>*
+
+*<https://www.youtube.com/watch?v=uWMJhbl3TyM>*
+
+*<https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580>*
