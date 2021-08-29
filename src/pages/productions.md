@@ -203,6 +203,57 @@ Kurt Benkovic
 
 \
 \
-Extra in ORF / ARTE feature film “The Lederhosen Affair” as a press representative
-
+Extra in ORF / ARTE feature film “The Lederhosen Affair” as a press representative\
 September 2020
+
+**CoVideo News.TV – Projekttheater Hall in Tirol, directed by Kurt Benkovic, written by Sarah Milena Rendel**
+
+October 2021
+
+The young Tyrolean author Sarah Milena Rendel (born in 1992) dealt with the impact of the pandemic on private news television in 2020. As a result, she wrote a comedy which illuminates the gender roles of both men and women in this work field. The transmission of news in permanent live broadcasts offers quite a few surprises and due to the isolation to the world, lots of intrigues can be spinned in order to rise up the career ladder.
+
+**Cast:**
+
+Anna Turner, Studio director\
+Viktoria Castellano
+
+Drine Mampf, Anna’s assistant\
+Vanessa Eberharter
+
+Ulrich Schaaf, News reporter\
+Bruno Graber
+
+Erik Pütz, Technical assistant\
+Marco Schmitzer
+
+Sanne Lustig, science editor
+
+Nadja Glugovski
+
+Eva, Lifestyle reporter
+
+Martina Frötscher
+
+Lange, Broadcast manager\
+Benjamin Nicolussi-Castellan
+
+Marina Martina, Federal Chancellor, Minister of science\
+Christina Nessmann
+
+Kasimir Koblar, scientific expert\
+Jochen Hampl
+
+Friedrich, Director\
+Arthur Bliem
+
+Light and Sound\
+Arthur Bliem
+
+Stage design\
+Peter Holzer
+
+Video\
+Sarah Milena Rendel & Team
+
+Music\
+Klex Wolf
