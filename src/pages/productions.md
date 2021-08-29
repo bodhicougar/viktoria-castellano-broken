@@ -4,18 +4,7 @@ subtitle: ""
 img_path: /images/_ADR5824.jpg
 seo:
   type: stackbit_page_meta
-  title: "Productions„Wias kimm’t“ – Bogentheater Innsbruck, directed by Katharina
-    Schwaiger,  written by Stephanie Larcher-Senn October-November  2018  In the
-    early 1960’s, a boy and a girl fall in love with each other. As a result,
-    she gets unexpectedly pregnant. But back then having a child as an unmarried
-    couple was a sin. The girl’s strict mother insists on a quick wedding,
-    preferably before the child gets born. The young couple tries, therefore, to
-    fix a wedding date with the local pastor – which  turns out to be more
-    difficult as expected.   Cast:  The girl  Viktoria Castellano  The
-    boy  Jakob Rosin Mother  Sandra Klein Pastor  Simon Hölzl Directed by  Jakob
-    Rosin Katharina Schwaiger Written by  Stephanie
-    Larcher-Senn  https://www.bogentheater.at/archiv/138/querkopfe
-    https://www.bogentheater.at/verein/team"
+  title: Productions
   description: Productions I took part in
   extra:
     - name: og:type
