@@ -42,16 +42,13 @@ seo:
       relativeUrl: true
 template: page
 ---
-„**Frau Suitner“ – Haller Burgsommer, directed by Elmar Drexel,\
-written by Karl Schönherr**
-
-
+„**Frau Suitner“ – Haller Burgsommer, directed by Elmar Drexel, written by Karl Schönherr**
 
 *<https://www.youtube.com/watch?v=96OH-mx8wBU>*
 
 June 2016
 
-Frau Suitner is an elderly lady who feels unworthy because she had never given birth to a child. Despite the fact that she managed to afford a debt-free live through hard work, she feels guilty and sorry for herself and her husband. Despite her tormentous jealousy, she takes the decision to drive him towards a girlish young woman - so at least he can have his own family.
+Frau Suitner is an elderly lady who feels unworthy because she had never given birth to a child. Despite the fact that she managed to afford a debt-free life through hard work, she feels guilty and sorry for herself and her husband. Despite her tremendous jealousy, she takes the decision to drive him towards a girlish young woman - so at least he can have his own family.
 
 Viktoria played the doctor’s secretary, at the side of Brigitte Jaufenthaler, Ronja Forcher and the ensemble “Theaterhaufen Hall”.
 
