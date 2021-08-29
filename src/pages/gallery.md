@@ -29,5 +29,6 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 template: page
+subtitle: Pictures & more
 ---
 *Under construction.*
