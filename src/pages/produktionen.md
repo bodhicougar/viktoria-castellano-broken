@@ -4,8 +4,8 @@ subtitle: ""
 img_path: /images/_ADR5824.jpg
 seo:
   type: stackbit_page_meta
-  title: Produktionen
-  description: Produktionen, in denen ich mitgewirkt habe.
+  title: Productions
+  description: Productions I took part in
   extra:
     - name: og:type
       value: website
