@@ -61,3 +61,10 @@ Viktoria starred as the wife of an alcoholic
 *<https://www.youtube.com/watch?v=FSl0nf-p3XA>*
 
 ![Contribution to Evil man](/images/evil-man.jpg)
+
+\
+„**Cyrano de Bergerac“ – Haller Burgsommer, directed by Elmar Drexel**
+
+June 2017
+
+In this romantic-comedic drama, Viktoria cast the role as the “girl who sells flowers” – again at the side of Brigitte Jaufenthaler, Ronja Forcher and the ensemble “Theaterhaufen Hall”
