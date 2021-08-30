@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 template: page
 ---
-**CoVideo News.TV – Projekttheater Hall in Tirol, directed by Kurt Benkovic, written by Sarah Milena Rendel**Viktoria CastellanoVanessa EberharterBruno GraberMarco SchmitzerBenjamin Nicolussi-CastellanChristina NessmannJochen HamplArthur BliemArthur BliemPeter HolzerSarah Milena Rendel & TeamKlex WolfFurniture makerErwin Schreckensperger
+**CoVideo News.TV – Projekttheater Hall in Tirol, directed by Kurt Benkovic, written by Sarah Milena Rendel**
 
 October 2021
 
@@ -40,40 +40,50 @@ The young Tyrolean author Sarah Milena Rendel (born in 1992) dealt with the impa
 **Cast:**
 
 Anna Turner, Studio director
+Viktoria Castellano
 
 Drine Mampf, Anna’s assistant
+Vanessa Eberharter
 
 Ulrich Schaaf, News reporter
-
+Bruno Graber
 Erik Pütz, Technical assistant
+Marco Schmitzer
 
 Sanne Lustig, science editor
-
 Nadja Glugovski
 
 Eva, Lifestyle reporter
-
 Martina Frötscher
 
 Lange, Broadcast manager
+Benjamin Nicolussi-Castellan
 
 Marina Martina, Federal Chancellor, Minister of science
+Christina Nessmann
 
 Kasimir Koblar, scientific expert
+Jochen Hampl
 
 Friedrich, Director
+Arthur Bliem
 
 Light and Sound
+Arthur Bliem
 
 Stage design
+Peter Holzer
 
 Video
+Sarah Milena Rendel & Team
 
 Music
+Klex Wolf
 
 [*http://www.projekttheater-hall.at/portfolio/provideonews-tv*](http://www.projekttheater-hall.at/portfolio/provideonews-tv)
 
-**Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovicwritten by Lina Hofstädter**Viktoria Castellano**François/Riccio**Joseph VillingerEva KusterRené OrbiniErich Thummer**John Knox/Man**Bruno GraberLukas SingerVanessa EberharterJakob Rosin**Maid**Astrid Oberwimmer**Bodyguard**Benjamin Nicolussi-Castellan**Stage & lighting design**Peter HolzerKurt BenkovicArthur Bliem**Costumes**LEA-Production school**Music**Klemens Wolf, Hanno Winder**Video**Christoph Lunzer, Sarah Rendel, Phillipp Walser**Furniture maker**Erwin SchreckenspergerFred SalvatorKurt BenkovicExtra in ORF / ARTE feature film “The Lederhosen Affair” as a press representativeSeptember 2020
+**
+Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovic written by Lina Hofstädter**
 
 October - November – December 2019
 
@@ -150,8 +160,7 @@ Kurt Benkovic
 ![](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/maria-stewart-close-up.jpg)
 
 
-
-„**Wias kimm’t“ – Bogentheater Innsbruck, directed by Katharina Schwaiger,written by Stephanie Larcher-Senn**
+„**Wias kimm’t“ – Bogentheater Innsbruck, directed by Katharina Schwaiger, written by Stephanie Larcher-Senn**
 
 October-November 2018
 
@@ -159,28 +168,24 @@ In the early 1960s, a boy and a girl fall in love with each other. As a result, 
 
 **Cast:**
 
-**The girl**
+The girl 
+Viktoria Castellano 
 
+The boy 
+[Jakob Rosin](https://www.bogentheater.at/verein/team/vorstand/5/jakob-rosin)
 
+Mother
+[Sandra Klein](https://www.bogentheater.at/verein/team/mitglieder/12/sandra-klein)
 
-**The boy**
+Pastor
+[Simon Hölzl](https://www.bogentheater.at/verein/team/ehemalige-mitglieder/31/simon-holzl)
 
+Directed by 
+[Jakob Rosin](https://www.bogentheater.at/verein/team/vorstand/5/jakob-rosin)
+[Katharina Schwaiger](https://www.bogentheater.at/verein/team/vorstand/3/katharina-schwaiger)
 
-
-**Mother**
-
-
-
-**Pastor**
-
-
-
-**Directed by**
-
-
-
-**Written by**
-
+Written by 
+[Stephanie Larcher-Senn](https://www.bogentheater.at/verein/team/vorstand/1/stephanie-larcher-senn)
 
 
 !\[Contribution to Wia's kimmt]\(/images/wias kimmt-40.jpg)
@@ -188,7 +193,6 @@ In the early 1960s, a boy and a girl fall in love with each other. As a result, 
 [*https://www.bogentheater.at/archiv/138/querkopfe*](https://www.bogentheater.at/archiv/138/querkopfe)
 
 [*https://www.bogentheater.at/verein/team*](https://www.bogentheater.at/verein/team)
-
 
 
 „**Frau Suitner“ – Haller Burgsommer, directed by Elmar Drexel, written by Karl Schönherr**
@@ -255,4 +259,3 @@ Pain is a feeling, feelings are the only things that are real, for sure. Surreal
 Pain gives birth. Birth gives pain. The imagination of beginning and end has been dissolved by sensing the picture of gravity and pain.
 
 ![Contribution to Allegory of pain](/images/allegory-of-pain.png)
-
