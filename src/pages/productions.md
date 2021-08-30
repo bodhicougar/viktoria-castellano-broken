@@ -1,32 +1,32 @@
 ---
 title: Productions
-subtitle: ''
+subtitle: ""
 img_path: /images/_ADR5824.jpg
 seo:
   type: stackbit_page_meta
   title: Productions
   description: Productions I took part in & upcoming feats
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: About Me
       keyName: property
-    - name: 'og:description'
+    - name: og:description
       value: A page about me and my work
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: images/about.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: About Me
-    - name: 'twitter:description'
+    - name: twitter:description
       value: A page about me and my work
-    - name: 'twitter:image'
+    - name: twitter:image
       value: images/about.jpg
       relativeUrl: true
 template: page
@@ -83,7 +83,7 @@ Klex Wolf
 Furniture maker
 Erwin Schreckensperger
 
-[*http://www.projekttheater-hall.at/portfolio/provideonews-tv*](http://www.projekttheater-hall.at/portfolio/provideonews-tv)
+*<http://www.projekttheater-hall.at/portfolio/provideonews-tv>*
 
 **Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovic written by Lina Hofstädter**
 
@@ -153,13 +153,13 @@ Fred Salvator
 Direction, overall management
 Kurt Benkovic
 
-[*http://www.projekttheater-hall.at/portfolio/maria-koenigin*](http://www.projekttheater-hall.at/portfolio/maria-koenigin)
+*<http://www.projekttheater-hall.at/portfolio/maria-koenigin>*
 
-[*https://www.youtube.com/watch?v=uWMJhbl3TyM*](https://www.youtube.com/watch?v=uWMJhbl3TyM)
+*<https://www.youtube.com/watch?v=uWMJhbl3TyM>*
 
-[*https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580*](https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580)
+*<https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580>*
 
-![](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/maria-stewart-close-up.jpg)
+![Contribution to Mary Stewart](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/maria-stewart-close-up.jpg)
 
 „**Wias kimm’t“ – Bogentheater Innsbruck, directed by Katharina Schwaiger, written by Stephanie Larcher-Senn**
 
@@ -188,11 +188,11 @@ Directed by
 Written by
 [Stephanie Larcher-Senn](https://www.bogentheater.at/verein/team/vorstand/1/stephanie-larcher-senn)
 
-![](/\_static/app-assets/wias-d66b4b5e.jpg)
+![Contribution to Wia's kimmt](/\_static/app-assets/wias-d66b4b5e.jpg)
 
-[*https://www.bogentheater.at/archiv/138/querkopfe*](https://www.bogentheater.at/archiv/138/querkopfe)
+*<https://www.bogentheater.at/archiv/138/querkopfe>*
 
-[*https://www.bogentheater.at/verein/team*](https://www.bogentheater.at/verein/team)
+*<https://www.bogentheater.at/verein/team>*
 
 „**Cyrano de Bergerac“ – Haller Burgsommer, directed by Elmar Drexel**
 
@@ -208,7 +208,7 @@ Location: DIE BÄCKEREI, Innsbruck
 
 Viktoria staged the pain and the birth of art
 
-[*https://www.liz-aw-visualization.com/exhibitions-references/2017-sens-it-l-ive/*](https://www.liz-aw-visualization.com/exhibitions-references/2017-sens-it-l-ive/)
+*<https://www.liz-aw-visualization.com/exhibitions-references/2017-sens-it-l-ive/>*
 
 PERFORMANCE TEXT (OPENING TEXT) 
 
@@ -242,9 +242,9 @@ February 2017
 
 Viktoria starred as the wife of an alcoholic
 
-[*https://www.youtube.com/watch?v=FSl0nf-p3XA*](https://www.youtube.com/watch?v=FSl0nf-p3XA)
+*<https://www.youtube.com/watch?v=FSl0nf-p3XA>*
 
-![](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/evil-man.jpg)
+![Contribution to Evil man](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/evil-man.jpg)
 
 „**Frau Suitner“ – Haller Burgsommer, directed by Elmar Drexel, written by Karl Schönherr**
 
@@ -254,4 +254,4 @@ Frau Suitner is an elderly lady who feels unworthy because she had never given b
 
 Viktoria played the doctor’s secretary, at the side of Brigitte Jaufenthaler, Ronja Forcher and the ensemble “Theaterhaufen Hall”.
 
-[*https://www.youtube.com/watch?v=96OH-mx8wBU*](https://www.youtube.com/watch?v=96OH-mx8wBU)
+*<https://www.youtube.com/watch?v=96OH-mx8wBU>*
