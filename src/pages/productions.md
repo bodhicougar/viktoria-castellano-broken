@@ -188,11 +188,13 @@ Directed by
 Written by
 [Stephanie Larcher-Senn](https://www.bogentheater.at/verein/team/vorstand/1/stephanie-larcher-senn)
 
+![](/\_static/app-assets/bg_wias%20kimmt-40.jpg)
+
+
+
 [*https://www.bogentheater.at/archiv/138/querkopfe*](https://www.bogentheater.at/archiv/138/querkopfe)
 
 [*https://www.bogentheater.at/verein/team*](https://www.bogentheater.at/verein/team)
-
-![](/\_static/app-assets/wias%20kimmt-40.jpg)
 
 
 
