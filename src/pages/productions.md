@@ -83,9 +83,7 @@ Klex Wolf
 Furniture maker
 Erwin Schreckensperger
 
-
 [*http://www.projekttheater-hall.at/portfolio/provideonews-tv*](http://www.projekttheater-hall.at/portfolio/provideonews-tv)
-
 
 **Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovic written by Lina Hofstädter**
 
@@ -163,7 +161,6 @@ Kurt Benkovic
 
 ![](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/maria-stewart-close-up.jpg)
 
-
 „**Wias kimm’t“ – Bogentheater Innsbruck, directed by Katharina Schwaiger, written by Stephanie Larcher-Senn**
 
 October-November 2018
@@ -197,15 +194,6 @@ Written by
 
 [*https://www.bogentheater.at/verein/team*](https://www.bogentheater.at/verein/team)
 
-„**Frau Suitner“ – Haller Burgsommer, directed by Elmar Drexel, written by Karl Schönherr**
-
-[*https://www.youtube.com/watch?v=96OH-mx8wBU*](https://www.youtube.com/watch?v=96OH-mx8wBU)
-
-June 2016
-
-Frau Suitner is an elderly lady who feels unworthy because she had never given birth to a child. Despite the fact that she managed to afford a debt-free life through hard work, she feels guilty and sorry for herself and her husband. Despite her tremendous jealousy, she takes the decision to drive him towards a girlish young woman - so at least he can have his own family.
-
-Viktoria played the doctor’s secretary, at the side of Brigitte Jaufenthaler, Ronja Forcher and the ensemble “Theaterhaufen Hall”.
 
 **Music video „Evil man“ from Giant Anteater “**
 
@@ -261,3 +249,14 @@ Pain is a feeling, feelings are the only things that are real, for sure. Surreal
 Pain gives birth. Birth gives pain. The imagination of beginning and end has been dissolved by sensing the picture of gravity and pain.
 
 ![Contribution to Allegory of pain](/images/allegory-of-pain.png)
+
+
+„**Frau Suitner“ – Haller Burgsommer, directed by Elmar Drexel, written by Karl Schönherr**
+
+June 2016
+
+Frau Suitner is an elderly lady who feels unworthy because she had never given birth to a child. Despite the fact that she managed to afford a debt-free life through hard work, she feels guilty and sorry for herself and her husband. Despite her tremendous jealousy, she takes the decision to drive him towards a girlish young woman - so at least he can have his own family.
+
+Viktoria played the doctor’s secretary, at the side of Brigitte Jaufenthaler, Ronja Forcher and the ensemble “Theaterhaufen Hall”.
+
+[*https://www.youtube.com/watch?v=96OH-mx8wBU*](https://www.youtube.com/watch?v=96OH-mx8wBU)
