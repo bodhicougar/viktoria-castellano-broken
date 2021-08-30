@@ -91,7 +91,7 @@ October - November – December 2019
 
 Due to the #metoo debate in 2018, the Tyrolean author Lina Hofstädter dealt with the life of Maria Stuart. She focused on the Scottish Queen’s younger years - starting from where Maria becomes queen of France at the age of 17. After her Husband’s death, she returns to Scotland and reigns there until she has to flee to England at the age of 26. In the 16th century, Scotland and England were both ruled by women. Folks and nobility considered this as a violation to the natural order – where the man is the crown of creation and head of the family. A woman must submit to his will.
 
-The author illustrates the principle of the patriarchal society at that time and allows us to draw parallels to our today’s world.
+gastro@gemuese-giner.atThe author illustrates the principle of the patriarchal society at that time and allows us to draw parallels to our today’s world.
 
 **Cast:**
 
@@ -188,7 +188,7 @@ Directed by
 Written by
 [Stephanie Larcher-Senn](https://www.bogentheater.at/verein/team/vorstand/1/stephanie-larcher-senn)
 
-![](/\_static/app-assets/bg_wias%20kimmt-40.jpg)
+![](/\_static/app-assets/square-europa.jpg)
 
 [*https://www.bogentheater.at/archiv/138/querkopfe*](https://www.bogentheater.at/archiv/138/querkopfe)
 
