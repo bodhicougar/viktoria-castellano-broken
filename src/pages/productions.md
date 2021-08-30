@@ -194,7 +194,11 @@ Written by
 
 [*https://www.bogentheater.at/verein/team*](https://www.bogentheater.at/verein/team)
 
+![](/\_static/app-assets/wias%20kimmt-40.jpg)
+
 \
+
+
 „**Cyrano de Bergerac“ – Haller Burgsommer, directed by Elmar Drexel**
 
 June 2017
