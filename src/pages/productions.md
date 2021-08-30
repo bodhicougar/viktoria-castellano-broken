@@ -80,10 +80,14 @@ Sarah Milena Rendel & Team
 Music
 Klex Wolf
 
+Furniture maker
+Erwin Schreckensperger
+
+
 [*http://www.projekttheater-hall.at/portfolio/provideonews-tv*](http://www.projekttheater-hall.at/portfolio/provideonews-tv)
 
-**
-Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovic written by Lina Hofstädter**
+
+**Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovic written by Lina Hofstädter**
 
 October - November – December 2019
 
@@ -168,10 +172,10 @@ In the early 1960s, a boy and a girl fall in love with each other. As a result, 
 
 **Cast:**
 
-The girl 
-Viktoria Castellano 
+The girl
+Viktoria Castellano
 
-The boy 
+The boy
 [Jakob Rosin](https://www.bogentheater.at/verein/team/vorstand/5/jakob-rosin)
 
 Mother
@@ -180,20 +184,18 @@ Mother
 Pastor
 [Simon Hölzl](https://www.bogentheater.at/verein/team/ehemalige-mitglieder/31/simon-holzl)
 
-Directed by 
+Directed by
 [Jakob Rosin](https://www.bogentheater.at/verein/team/vorstand/5/jakob-rosin)
 [Katharina Schwaiger](https://www.bogentheater.at/verein/team/vorstand/3/katharina-schwaiger)
 
-Written by 
+Written by
 [Stephanie Larcher-Senn](https://www.bogentheater.at/verein/team/vorstand/1/stephanie-larcher-senn)
-
 
 !\[Contribution to Wia's kimmt]\(/images/wias kimmt-40.jpg)
 
 [*https://www.bogentheater.at/archiv/138/querkopfe*](https://www.bogentheater.at/archiv/138/querkopfe)
 
 [*https://www.bogentheater.at/verein/team*](https://www.bogentheater.at/verein/team)
-
 
 „**Frau Suitner“ – Haller Burgsommer, directed by Elmar Drexel, written by Karl Schönherr**
 
