@@ -43,32 +43,25 @@ Anna Turner, Studio director
 
 Drine Mampf, Anna’s assistant
 
-
-
 Ulrich Schaaf, News reporter
 
 Erik Pütz, Technical assistant
-
 
 Sanne Lustig, science editor
 
 Nadja Glugovski
 
-
 Eva, Lifestyle reporter
 
 Martina Frötscher
-
 
 Lange, Broadcast manager
 
 Marina Martina, Federal Chancellor, Minister of science
 
-
 Kasimir Koblar, scientific expert
 
 Friedrich, Director
-
 
 Light and Sound
 
@@ -79,6 +72,68 @@ Video
 Music
 
 [*http://www.projekttheater-hall.at/portfolio/provideonews-tv*](http://www.projekttheater-hall.at/portfolio/provideonews-tv)
+
+
+
+**Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovicwritten by Lina Hofstädter**Viktoria Castellano**François/Riccio**Joseph VillingerEva KusterRené OrbiniErich Thummer**John Knox/Man**Bruno GraberLukas SingerVanessa EberharterJakob Rosin**Maid**Astrid Oberwimmer**Bodyguard**Benjamin Nicolussi-Castellan**Stage & lighting design**Peter HolzerKurt BenkovicArthur Bliem**Costumes**LEA-Production school**Music**Klemens Wolf, Hanno Winder**Video**Christoph Lunzer, Sarah Rendel, Phillipp Walser**Furniture maker**Erwin SchreckenspergerFred SalvatorKurt BenkovicExtra in ORF / ARTE feature film “The Lederhosen Affair” as a press representativeSeptember 2020
+
+
+
+October - November – December 2019
+
+Due to the #metoo debate in 2018, the Tyrolean author Lina Hofstädter dealt with the life of Maria Stuart. She focused on the Scottish Queen’s younger years - starting from where Maria becomes queen of France at the age of 17. After her Husband’s death, she returns to Scotland and reigns there until she has to flee to England at the age of 26. In the 16th century, Scotland and England were both ruled by women. Folks and nobility considered this as a violation to the natural order – where the man is the crown of creation and head of the family. A woman must submit to his will.
+
+The author illustrates the principle of the patriarchal society at that time and allows us to draw parallels to our today’s world.
+
+**Cast:**
+
+**Maria Stuart**
+
+
+
+**Katharina/Lady/Maid**
+
+
+
+**James Steward/Morton**
+
+
+
+**Maitland/Man**
+
+
+
+**Lord Darnley**
+
+
+
+**Mary Seton/Lady/Maid**
+
+
+
+**Earl of Bothwell**
+
+
+
+**Light and Sound**
+
+
+
+**Production assistant**
+
+
+
+**Direction, overall management**
+
+
+
+[*http://www.projekttheater-hall.at/portfolio/maria-koenigin*](http://www.projekttheater-hall.at/portfolio/maria-koenigin)
+
+[*https://www.youtube.com/watch?v=uWMJhbl3TyM*](https://www.youtube.com/watch?v=uWMJhbl3TyM)
+
+[*https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580*](https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580)
+
+![](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/maria-stewart-close-up.jpg)
 
 
 „**Frau Suitner“ – Haller Burgsommer, directed by Elmar Drexel, written by Karl Schönherr**
@@ -178,87 +233,3 @@ Viktoria Castellano
 [*https://www.bogentheater.at/archiv/138/querkopfe*](https://www.bogentheater.at/archiv/138/querkopfe)
 
 [*https://www.bogentheater.at/verein/team*](https://www.bogentheater.at/verein/team)
-
-\
-**Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovic**\
-**written by Lina Hofstädter**
-
-October - November – December 2019
-
-Due to the #metoo debate in 2018, the Tyrolean author Lina Hofstädter dealt with the life of Maria Stuart. She focused on the Scottish Queen’s younger years - starting from where Maria becomes queen of France at the age of 17. After her Husband’s death, she returns to Scotland and reigns there until she has to flee to England at the age of 26. In the 16th century, Scotland and England were both ruled by women. Folks and nobility considered this as a violation to the natural order – where the man is the crown of creation and head of the family. A woman must submit to his will.
-
-The author illustrates the principle of the patriarchal society at that time and allows us to draw parallels to our today’s world.
-
-**Cast:**
-
-**Maria Stuart**\
-Viktoria Castellano\
-\
-**François/Riccio**\
-Joseph Villinger
-
-**Katharina/Lady/Maid**\
-Eva Kuster
-
-**James Steward/Morton**\
-René Orbini
-
-**Maitland/Man**\
-Erich Thummer\
-\
-**John Knox/Man**\
-Bruno Graber
-
-**Lord Darnley**\
-Lukas Singer
-
-**Mary Seton/Lady/Maid**\
-Vanessa Eberharter
-
-**Earl of Bothwell**\
-Jakob Rosin\
-\
-**Maid**\
-Astrid Oberwimmer\
-\
-**Bodyguard**\
-Benjamin Nicolussi-Castellan\
-\
-**Stage & lighting design**\
-Peter Holzer\
-Kurt Benkovic
-
-**Light and Sound**\
-Arthur Bliem\
-\
-**Costumes**\
-LEA-Production school\
-\
-**Music**\
-Klemens Wolf, Hanno Winder\
-\
-**Video**\
-Christoph Lunzer, Sarah Rendel, Phillipp Walser\
-\
-**Furniture maker**\
-Erwin Schreckensperger
-
-**Production assistant**\
-Fred Salvator
-
-**Direction, overall management**\
-Kurt Benkovic
-
-[*http://www.projekttheater-hall.at/portfolio/maria-koenigin*](http://www.projekttheater-hall.at/portfolio/maria-koenigin)
-
-[*https://www.youtube.com/watch?v=uWMJhbl3TyM*](https://www.youtube.com/watch?v=uWMJhbl3TyM)
-
-[*https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580*](https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580)
-
-![Contribution to Mary Stewart](/images/maria-stewart-close-up.jpg)
-
-\
-\
-Extra in ORF / ARTE feature film “The Lederhosen Affair” as a press representative\
-September 2020
-
