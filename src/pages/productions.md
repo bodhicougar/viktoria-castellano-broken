@@ -73,11 +73,7 @@ Music
 
 [*http://www.projekttheater-hall.at/portfolio/provideonews-tv*](http://www.projekttheater-hall.at/portfolio/provideonews-tv)
 
-
-
 **Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovicwritten by Lina Hofstädter**Viktoria Castellano**François/Riccio**Joseph VillingerEva KusterRené OrbiniErich Thummer**John Knox/Man**Bruno GraberLukas SingerVanessa EberharterJakob Rosin**Maid**Astrid Oberwimmer**Bodyguard**Benjamin Nicolussi-Castellan**Stage & lighting design**Peter HolzerKurt BenkovicArthur Bliem**Costumes**LEA-Production school**Music**Klemens Wolf, Hanno Winder**Video**Christoph Lunzer, Sarah Rendel, Phillipp Walser**Furniture maker**Erwin SchreckenspergerFred SalvatorKurt BenkovicExtra in ORF / ARTE feature film “The Lederhosen Affair” as a press representativeSeptember 2020
-
-
 
 October - November – December 2019
 
@@ -87,45 +83,63 @@ The author illustrates the principle of the patriarchal society at that time and
 
 **Cast:**
 
-**Maria Stuart**
+Maria Stuart
+Viktoria Castellano
 
+François/Riccio
+Joseph Villinger
 
+Katharina/Lady/Maid
+Eva Kuster
 
-**Katharina/Lady/Maid**
+James Steward/Morton
+René Orbini
 
+Maitland/Man
+Erich Thummer
 
+John Knox/Man
+Bruno Graber
 
-**James Steward/Morton**
+Lord Darnley
+Lukas Singer
 
+Mary Seton/Lady/Maid
+Vanessa Eberharter
 
+Earl of Bothwell
+Jakob Rosin
 
-**Maitland/Man**
+Maid
+Astrid Oberwimmer
 
+Bodyguard
+Benjamin Nicolussi-Castellan
 
+Stage & lighting design
+Peter Holzer
+Kurt Benkovic
 
-**Lord Darnley**
+Light and Sound
+Arthur Bliem
 
+Costumes
+LEA-Production school
 
+Music
+Klemens Wolf, Hanno Winder
 
-**Mary Seton/Lady/Maid**
+Video
+Christoph Lunzer, Sarah Rendel, Phillipp Walser
 
+Furniture maker
+Erwin Schreckensperger
 
+Production assistant
+Fred Salvator
 
-**Earl of Bothwell**
-
-
-
-**Light and Sound**
-
-
-
-**Production assistant**
-
-
-
-**Direction, overall management**
-
-
+Direction, overall management
+Kurt Benkovic
 
 [*http://www.projekttheater-hall.at/portfolio/maria-koenigin*](http://www.projekttheater-hall.at/portfolio/maria-koenigin)
 
@@ -134,6 +148,47 @@ The author illustrates the principle of the patriarchal society at that time and
 [*https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580*](https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580)
 
 ![](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/maria-stewart-close-up.jpg)
+
+
+
+„**Wias kimm’t“ – Bogentheater Innsbruck, directed by Katharina Schwaiger,written by Stephanie Larcher-Senn**
+
+October-November 2018
+
+In the early 1960s, a boy and a girl fall in love with each other. As a result, she gets unexpectedly pregnant. But back then, having a child as an unmarried couple was a sin. The girl’s strict mother insists on a quick wedding, preferably before the child gets born. The young couple tries, therefore, to fix a wedding date with the local pastor – which turns out to be more difficult than expected.
+
+**Cast:**
+
+**The girl**
+
+
+
+**The boy**
+
+
+
+**Mother**
+
+
+
+**Pastor**
+
+
+
+**Directed by**
+
+
+
+**Written by**
+
+
+
+!\[Contribution to Wia's kimmt]\(/images/wias kimmt-40.jpg)
+
+[*https://www.bogentheater.at/archiv/138/querkopfe*](https://www.bogentheater.at/archiv/138/querkopfe)
+
+[*https://www.bogentheater.at/verein/team*](https://www.bogentheater.at/verein/team)
+
 
 
 „**Frau Suitner“ – Haller Burgsommer, directed by Elmar Drexel, written by Karl Schönherr**
@@ -201,35 +256,3 @@ Pain gives birth. Birth gives pain. The imagination of beginning and end has bee
 
 ![Contribution to Allegory of pain](/images/allegory-of-pain.png)
 
-„**Wias kimm’t“ – Bogentheater Innsbruck, directed by Katharina Schwaiger,**\
-**written by Stephanie Larcher-Senn**
-
-October-November 2018
-
-In the early 1960s, a boy and a girl fall in love with each other. As a result, she gets unexpectedly pregnant. But back then, having a child as an unmarried couple was a sin. The girl’s strict mother insists on a quick wedding, preferably before the child gets born. The young couple tries, therefore, to fix a wedding date with the local pastor – which turns out to be more difficult than expected.
-
-**Cast:**
-
-**The girl**\
-Viktoria Castellano
-
-**The boy**\
-[Jakob Rosin](https://www.bogentheater.at/verein/team/vorstand/5/jakob-rosin)
-
-**Mother**\
-[Sandra Klein](https://www.bogentheater.at/verein/team/mitglieder/12/sandra-klein)
-
-**Pastor**\
-[Simon Hölzl](https://www.bogentheater.at/verein/team/ehemalige-mitglieder/31/simon-holzl)
-
-**Directed by**\
-[Jakob Rosin](https://www.bogentheater.at/verein/team/vorstand/5/jakob-rosin)[Katharina Schwaiger](https://www.bogentheater.at/verein/team/vorstand/3/katharina-schwaiger)
-
-**Written by**\
-[Stephanie Larcher-Senn](https://www.bogentheater.at/verein/team/vorstand/1/stephanie-larcher-senn)
-
-!\[Contribution to Wia's kimmt]\(/images/wias kimmt-40.jpg)
-
-[*https://www.bogentheater.at/archiv/138/querkopfe*](https://www.bogentheater.at/archiv/138/querkopfe)
-
-[*https://www.bogentheater.at/verein/team*](https://www.bogentheater.at/verein/team)
