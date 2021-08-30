@@ -190,13 +190,9 @@ Written by
 
 ![](/\_static/app-assets/bg_wias%20kimmt-40.jpg)
 
-
-
 [*https://www.bogentheater.at/archiv/138/querkopfe*](https://www.bogentheater.at/archiv/138/querkopfe)
 
 [*https://www.bogentheater.at/verein/team*](https://www.bogentheater.at/verein/team)
-
-
 
 „**Cyrano de Bergerac“ – Haller Burgsommer, directed by Elmar Drexel**
 
@@ -218,9 +214,7 @@ PERFORMANCE TEXT (OPENING TEXT) 
 
 Pictures, consisting of lines, dots, forms which are sums of points. Of wound points. Of pain points. 
 
-Art is born in pain.
-
-Birth is pain. 
+Art is born in pain. Birth is pain. 
 
 Opening the eyes of this body you live in for this world facing gravity is pain. 
 
