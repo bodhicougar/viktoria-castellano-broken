@@ -5,7 +5,7 @@ img_path: /images/_ADR5824.jpg
 seo:
   type: stackbit_page_meta
   title: Productions
-  description: Productions I took part in & upcoming
+  description: Productions I took part in & upcoming feats
   extra:
     - name: 'og:type'
       value: website
