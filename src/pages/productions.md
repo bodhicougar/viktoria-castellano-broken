@@ -194,7 +194,7 @@ Written by
 
 ![](/\_static/app-assets/wias%20kimmt-40.jpg)
 
-\\
+
 
 „**Cyrano de Bergerac“ – Haller Burgsommer, directed by Elmar Drexel**
 
