@@ -39,55 +39,53 @@ The young Tyrolean author Sarah Milena Rendel (born in 1992) dealt with the impa
 
 **Cast:**
 
-Anna Turner, Studio director
+Anna Turner, Studio director -
 Viktoria Castellano
 
-Drine Mampf, Anna’s assistant
+Drine Mampf, Anna’s assistant - 
 Vanessa Eberharter
 
-Ulrich Schaaf, News reporter
+Ulrich Schaaf, News reporter - 
 Bruno Graber
-Erik Pütz, Technical assistant
+
+
+Erik Pütz, Technical assistant - 
 Marco Schmitzer
 
-Sanne Lustig, science editor
+Sanne Lustig, science editor - 
 Nadja Glugovski
 
-Eva, Lifestyle reporter
+Eva, Lifestyle reporter - 
 Martina Frötscher
 
-Lange, Broadcast manager
+Lange, Broadcast manager - 
 Benjamin Nicolussi-Castellan
 
-Marina Martina, Federal Chancellor, Minister of science
+Marina Martina, Federal Chancellor, Minister of science - 
 Christina Nessmann
 
-Kasimir Koblar, scientific expert
+Kasimir Koblar, scientific expert - 
 Jochen Hampl
 
-Friedrich, Director
+Friedrich, Director - 
 Arthur Bliem
 
-Light and Sound
+Light and Sound - 
 Arthur Bliem
 
-Stage design
+Stage design - 
 Peter Holzer
 
-Video
+Video - 
 Sarah Milena Rendel & Team
 
-Music
+Music - 
 Klex Wolf
 
-Furniture maker
+Furniture maker - 
 Erwin Schreckensperger
 
 *<http://www.projekttheater-hall.at/portfolio/provideonews-tv>*
-
-
-
-
 
 **Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovic written by Lina Hofstädter**
 
@@ -99,62 +97,62 @@ The author illustrates the principle of the patriarchal society at that time and
 
 **Cast:**
 
-Maria Stuart
+Maria Stuart - 
 Viktoria Castellano
 
-François/Riccio
+François/Riccio - 
 Joseph Villinger
 
-Katharina/Lady/Maid
+Katharina/Lady/Maid - 
 Eva Kuster
 
-James Steward/Morton
+James Steward/Morton - 
 René Orbini
 
-Maitland/Man
+Maitland/Man - 
 Erich Thummer
 
-John Knox/Man
+John Knox/Man - 
 Bruno Graber
 
-Lord Darnley
+Lord Darnley - 
 Lukas Singer
 
-Mary Seton/Lady/Maid
+Mary Seton/Lady/Maid - 
 Vanessa Eberharter
 
-Earl of Bothwell
+Earl of Bothwell - 
 Jakob Rosin
 
-Maid
+Maid - 
 Astrid Oberwimmer
 
-Bodyguard
+Bodyguard - 
 Benjamin Nicolussi-Castellan
 
-Stage & lighting design
+Stage & lighting design - 
 Peter Holzer
 Kurt Benkovic
 
-Light and Sound
+Light and Sound - 
 Arthur Bliem
 
-Costumes
+Costumes - 
 LEA-Production school
 
-Music
+Music - 
 Klemens Wolf, Hanno Winder
 
-Video
+Video - 
 Christoph Lunzer, Sarah Rendel, Phillipp Walser
 
-Furniture maker
+Furniture maker - 
 Erwin Schreckensperger
 
-Production assistant
+Production assistant - 
 Fred Salvator
 
-Direction, overall management
+Direction, overall management - 
 Kurt Benkovic
 
 *<http://www.projekttheater-hall.at/portfolio/maria-koenigin>*
@@ -165,10 +163,6 @@ Kurt Benkovic
 
 ![](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/maria-stewart-close-up.jpg)
 
-
-
-
-
 „**Wias kimm’t“ – Bogentheater Innsbruck, directed by Katharina Schwaiger, written by Stephanie Larcher-Senn**
 
 October-November 2018
@@ -177,23 +171,23 @@ In the early 1960s, a boy and a girl fall in love with each other. As a result, 
 
 **Cast:**
 
-The girl
+The girl - 
 Viktoria Castellano
 
-The boy
+The boy - 
 [Jakob Rosin](https://www.bogentheater.at/verein/team/vorstand/5/jakob-rosin)
 
-Mother
+Mother - 
 [Sandra Klein](https://www.bogentheater.at/verein/team/mitglieder/12/sandra-klein)
 
-Pastor
+Pastor - 
 [Simon Hölzl](https://www.bogentheater.at/verein/team/ehemalige-mitglieder/31/simon-holzl)
 
-Directed by
+Directed by - 
 [Jakob Rosin](https://www.bogentheater.at/verein/team/vorstand/5/jakob-rosin)
 [Katharina Schwaiger](https://www.bogentheater.at/verein/team/vorstand/3/katharina-schwaiger)
 
-Written by
+Written by - 
 [Stephanie Larcher-Senn](https://www.bogentheater.at/verein/team/vorstand/1/stephanie-larcher-senn)
 
 ![Contribution to Wia's kimmt]()
@@ -202,21 +196,11 @@ Written by
 
 *<https://www.bogentheater.at/verein/team>*
 
-
-
-
-
 „**Cyrano de Bergerac“ – Haller Burgsommer, directed by Elmar Drexel**
 
 June 2017
 
 In this romantic-comedic drama, Viktoria cast the role as the “girl who sells flowers” – again at the side of Brigitte Jaufenthaler, Ronja Forcher and the ensemble “Theaterhaufen Hall”.
-
-
-
-
-
-
 
 **Allegory of pain for the opening of the vernissage “SENS IT (L) IVE”, by Lisa Wöss**
 
@@ -254,10 +238,6 @@ Pain gives birth. Birth gives pain. The imagination of beginning and end has bee
 
 ![Contribution to Allegory of pain]()
 
-
-
-
-
 **Music video „Evil man“ from Giant Anteater “**
 
 February 2017
@@ -267,10 +247,6 @@ Viktoria starred as the wife of an alcoholic
 *<https://www.youtube.com/watch?v=FSl0nf-p3XA>*
 
 ![Contribution to Evil man](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/evil-man.jpg)
-
-
-
-
 
 „**Frau Suitner“ – Haller Burgsommer, directed by Elmar Drexel, written by Karl Schönherr**
 
