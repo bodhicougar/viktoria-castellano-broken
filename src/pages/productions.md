@@ -85,13 +85,17 @@ Erwin Schreckensperger
 
 *<http://www.projekttheater-hall.at/portfolio/provideonews-tv>*
 
+
+
+
+
 **Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovic written by Lina Hofstädter**
 
 October - November – December 2019
 
 Due to the #metoo debate in 2018, the Tyrolean author Lina Hofstädter dealt with the life of Maria Stuart. She focused on the Scottish Queen’s younger years - starting from where Maria becomes queen of France at the age of 17. After her Husband’s death, she returns to Scotland and reigns there until she has to flee to England at the age of 26. In the 16th century, Scotland and England were both ruled by women. Folks and nobility considered this as a violation to the natural order – where the man is the crown of creation and head of the family. A woman must submit to his will.
 
-gastro@gemuese-giner.atThe author illustrates the principle of the patriarchal society at that time and allows us to draw parallels to our today’s world.
+The author illustrates the principle of the patriarchal society at that time and allows us to draw parallels to our today’s world.
 
 **Cast:**
 
@@ -159,7 +163,11 @@ Kurt Benkovic
 
 *<https://www.meinbezirk.at/hall-rum/c-lokales/theaterauffuehrung-mariakoenigin_a3719580>*
 
-![Contribution to Mary Stewart](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/maria-stewart-close-up.jpg)
+![](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/maria-stewart-close-up.jpg)
+
+
+
+
 
 „**Wias kimm’t“ – Bogentheater Innsbruck, directed by Katharina Schwaiger, written by Stephanie Larcher-Senn**
 
@@ -188,17 +196,27 @@ Directed by
 Written by
 [Stephanie Larcher-Senn](https://www.bogentheater.at/verein/team/vorstand/1/stephanie-larcher-senn)
 
-![Contribution to Wia's kimmt](/images/wias.jpg)
+![Contribution to Wia's kimmt]()
 
 *<https://www.bogentheater.at/archiv/138/querkopfe>*
 
 *<https://www.bogentheater.at/verein/team>*
+
+
+
+
 
 „**Cyrano de Bergerac“ – Haller Burgsommer, directed by Elmar Drexel**
 
 June 2017
 
 In this romantic-comedic drama, Viktoria cast the role as the “girl who sells flowers” – again at the side of Brigitte Jaufenthaler, Ronja Forcher and the ensemble “Theaterhaufen Hall”.
+
+
+
+
+
+
 
 **Allegory of pain for the opening of the vernissage “SENS IT (L) IVE”, by Lisa Wöss**
 
@@ -234,7 +252,11 @@ Pain is a feeling, feelings are the only things that are real, for sure. Surreal
 
 Pain gives birth. Birth gives pain. The imagination of beginning and end has been dissolved by sensing the picture of gravity and pain.
 
-![Contribution to Allegory of pain](/images/allegory-of-pain.png)
+![Contribution to Allegory of pain]()
+
+
+
+
 
 **Music video „Evil man“ from Giant Anteater “**
 
@@ -245,6 +267,10 @@ Viktoria starred as the wife of an alcoholic
 *<https://www.youtube.com/watch?v=FSl0nf-p3XA>*
 
 ![Contribution to Evil man](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/evil-man.jpg)
+
+
+
+
 
 „**Frau Suitner“ – Haller Burgsommer, directed by Elmar Drexel, written by Karl Schönherr**
 
