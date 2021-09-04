@@ -1,6 +1,6 @@
 ---
 title: Photo Gallery
-subtitle: lorem-ipsum
+subtitle: Bits & pieces
 seo:
   title: ''
   description: ''
