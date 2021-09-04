@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Photo Gallery
 subtitle: lorem-ipsum
 seo:
   title: ''
