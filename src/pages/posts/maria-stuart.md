@@ -4,7 +4,7 @@ subtitle: By the commission of performing Arts in Vienna.
 date: 2021-05-11T22:00:00.000Z
 thumb_img_path: /images/Screenshot 2020-09-06 22.57.09.png
 thumb_img_alt: Viktoria in action
-content_img_path: /images/great-squid.jpg
+content_img_path: ""
 excerpt: Hiking is sometimes referred to as such. This specifically refers to
   difficult walking through dense forest, undergrowth, or bushes, where forward
   progress requires pushing vegetation aside.
