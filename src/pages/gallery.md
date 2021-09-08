@@ -1,6 +1,6 @@
 ---
 title: Photo Gallery
-subtitle: Bits & pieces
+subtitle: ""
 seo:
   title: ""
   description: ""
