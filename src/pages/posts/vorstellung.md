@@ -53,3 +53,35 @@ Sun. 24.10 (06:00pm)
 **Book your reservation here:** http://www.projekttheater-hall.at/ 
 
 <http://www.projekttheater-hall.at/portfolio/provideonews-tv>
+
+**Cast:**
+
+Anna Turner, Studio director - Viktoria Castellano
+
+Drine Mampf, Anna’s assistant - Vanessa Eberharter
+
+Ulrich Schaaf, News reporter - Bruno Graber
+
+Erik Pütz, Technical assistant - Marco Schmitzer
+
+Sanne Lustig, science editor - Nadja Glugovski
+
+Eva, Lifestyle reporter - Martina Frötscher
+
+Lange, Broadcast manager - Benjamin Nicolussi-Castellan
+
+Marina Martina, Federal Chancellor, Minister of science - Christina Nessmann
+
+Kasimir Koblar, scientific expert - Jochen Hampl
+
+Friedrich, Director - Arthur Bliem
+
+Light and Sound - Arthur Bliem
+
+Stage design - Peter Holzer
+
+Video - Sarah Milena Rendel & Team
+
+Music - Klex Wolf
+
+Furniture maker - Erwin Schreckensperger
