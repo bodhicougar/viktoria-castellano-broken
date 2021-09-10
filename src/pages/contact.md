@@ -56,7 +56,7 @@ seo:
       value: Get in Touch
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: This is the contact page for Viktoria Castellano - actress
       keyName: property
     - name: 'og:image'
       value: images/contact.jpg
