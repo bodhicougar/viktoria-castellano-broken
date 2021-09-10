@@ -15,7 +15,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: 'Viktoria Castellano - actress: Productions'
       keyName: property
     - name: 'og:description'
       value: >-
