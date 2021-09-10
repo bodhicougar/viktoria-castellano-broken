@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Me
+      value: 'Viktoria Castellano - actress: About Me'
     - name: 'twitter:description'
       value: >-
         Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
