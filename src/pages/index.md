@@ -18,7 +18,11 @@ seo:
       value: Anna-Viktoria Castellano
       keyName: property
     - name: 'og:description'
-      value: Schauspielerin / actress / etc.
+      value: >-
+        Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
+        Italian-German actress.
+
+        From a very young age, Viktoria had a strong compassion for art.
       keyName: property
     - name: 'og:image'
       value: /images/IMG_7348.jpg
