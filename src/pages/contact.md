@@ -69,7 +69,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Get in Touch
+      value: Getting in touch
     - name: 'twitter:description'
       value: >-
         Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
