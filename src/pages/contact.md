@@ -53,7 +53,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Get in Touch
+      value: 'Viktoria Castellano - actress: Getting in touch'
       keyName: property
     - name: 'og:description'
       value: >-
