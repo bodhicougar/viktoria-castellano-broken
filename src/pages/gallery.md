@@ -1,9 +1,9 @@
 ---
 title: Photo Gallery
-subtitle: ""
+subtitle: ''
 seo:
-  title: ""
-  description: ""
+  title: Viktoria Castellano - Actress
+  description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
