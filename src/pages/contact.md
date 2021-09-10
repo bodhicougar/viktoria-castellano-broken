@@ -56,7 +56,11 @@ seo:
       value: Get in Touch
       keyName: property
     - name: 'og:description'
-      value: This is the contact page for Viktoria Castellano - actress
+      value: >-
+        Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
+        Italian-German actress.
+
+        From a very young age, Viktoria had a strong compassion for art.
       keyName: property
     - name: 'og:image'
       value: images/contact.jpg
