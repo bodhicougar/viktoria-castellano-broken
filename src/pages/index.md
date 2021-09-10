@@ -33,7 +33,11 @@ seo:
     - name: 'twitter:title'
       value: Anna-Viktoria Castellano
     - name: 'twitter:description'
-      value: Schauspielerin / actress / etc.
+      value: >-
+        Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
+        Italian-German actress.
+
+        From a very young age, Viktoria had a strong compassion for art.
     - name: 'twitter:image'
       value: /images/IMG_7348.jpg
       relativeUrl: true
