@@ -15,7 +15,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Anna-Viktoria Castellano
+      value: Anna-Viktoria Castellano - Actress
       keyName: property
     - name: 'og:description'
       value: >-
