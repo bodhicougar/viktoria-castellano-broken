@@ -1,5 +1,5 @@
 ---
-title: '"Mein Freund Harvey" Boulevard'
+title: '"Mein Freund Harvey" Boulevard - Coming soon '
 subtitle: "coming soon "
 date: 2021-09-05T22:00:00.000Z
 thumb_img_path: ""
