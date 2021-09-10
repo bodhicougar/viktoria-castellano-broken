@@ -21,7 +21,7 @@ seo:
       value: A page about me and my work
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /_static/app-assets/bg__ADR5757-e29aa7c5.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
