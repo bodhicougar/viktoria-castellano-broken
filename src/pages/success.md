@@ -2,7 +2,7 @@
 title: Thank you
 img_path: /images/marvelous-aluminum.jpg
 seo:
-  title: Thank you.
+  title: 'Viktoria Castellano - Actress: Thank you.'
   description: Transmission was successful.
   robots: []
   extra: []
