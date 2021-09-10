@@ -25,7 +25,7 @@ seo:
         From a very young age, Viktoria had a strong compassion for art.
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /_static/app-assets/wias%20kimmt-27.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
