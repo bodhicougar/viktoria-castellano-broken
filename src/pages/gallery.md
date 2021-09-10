@@ -2,7 +2,7 @@
 title: Photo Gallery
 subtitle: ''
 seo:
-  title: Viktoria Castellano - Actress
+  title: 'Viktoria Castellano - Actress: Gallery'
   description: >-
     Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
     Italian-German actress.
