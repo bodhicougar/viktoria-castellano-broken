@@ -7,7 +7,7 @@ date: 2021-09-07T22:00:00.000Z
 thumb_img_path: /images/screenshot-2021-09-08-13.24.21-schnitt.png
 thumb_img_alt: Viktoria Castellano in action
 content_img_path: ""
-excerpt: Preview
+excerpt: "Get your ticket here "
 seo:
   type: stackbit_page_meta
   title: Anna-Viktoria Castellano
