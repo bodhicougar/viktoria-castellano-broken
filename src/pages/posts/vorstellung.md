@@ -1,5 +1,5 @@
 ---
-title: "CoVideo News.TV "
+title: "ProVideo News.TV - Now on stage "
 subtitle: "Theater im Sudhaus, Premiere: 03.10.2021 (06:00pm) \\ 08.10 (08:00pm)
   \\ Sun.10.10 \\ Fr.15.10 \\ Sun.17.10\\ Thur. 21.10 \\ Fr. 22.10\\ Sun. 24.10
   "
