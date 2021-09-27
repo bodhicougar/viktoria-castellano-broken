@@ -1,49 +1,49 @@
 ---
 title: Productions
-subtitle: ''
+subtitle: ""
 img_path: /images/_ADR5824.jpg
 seo:
   type: stackbit_page_meta
-  title: 'Viktoria Castellano - Actress: Productions'
+  title: "Viktoria Castellano - Actress: Productions"
   description: >-
     Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
     Italian-German actress.
 
     From a very young age, Viktoria had a strong compassion for art.
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: website
       keyName: property
-    - name: 'og:title'
-      value: 'Viktoria Castellano - actress: Productions'
+    - name: og:title
+      value: "Viktoria Castellano - actress: Productions"
       keyName: property
-    - name: 'og:description'
+    - name: og:description
       value: >-
         Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
         Italian-German actress.
 
         From a very young age, Viktoria had a strong compassion for art.
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: /_static/app-assets/wias%20kimmt-27.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: About Me
-    - name: 'twitter:description'
+    - name: twitter:description
       value: >-
         Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
         Italian-German actress.
 
         From a very young age, Viktoria had a strong compassion for art.
-    - name: 'twitter:image'
+    - name: twitter:image
       value: images/about.jpg
       relativeUrl: true
 template: page
 ---
-**CoVideo News.TV – Projekttheater Hall in Tirol, directed by Kurt Benkovic, written by Sarah Milena Rendel**
+## **CoVideo News.TV – Projekttheater Hall in Tirol, directed by Kurt Benkovic, written by Sarah Milena Rendel**
 
 October 2021
 
@@ -59,7 +59,6 @@ Vanessa Eberharter
 
 Ulrich Schaaf, News reporter - 
 Bruno Graber
-
 
 Erik Pütz, Technical assistant - 
 Marco Schmitzer
@@ -99,7 +98,9 @@ Erwin Schreckensperger
 
 *<http://www.projekttheater-hall.at/portfolio/provideonews-tv>*
 
-**Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovic written by Lina Hofstädter**
+
+
+## **Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovic written by Lina Hofstädter**
 
 October - November – December 2019
 
@@ -175,7 +176,9 @@ Kurt Benkovic
 
 ![](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/maria-stewart-close-up.jpg)
 
-„**Wias kimm’t“ – Bogentheater Innsbruck, directed by Katharina Schwaiger, written by Stephanie Larcher-Senn**
+
+
+## „**Wias kimm’t“ – Bogentheater Innsbruck, directed by Katharina Schwaiger, written by Stephanie Larcher-Senn**
 
 October-November 2018
 
@@ -208,13 +211,17 @@ Written by -
 
 *<https://www.bogentheater.at/verein/team>*
 
-„**Cyrano de Bergerac“ – Haller Burgsommer, directed by Elmar Drexel**
+
+
+## „**Cyrano de Bergerac“ – Haller Burgsommer, directed by Elmar Drexel**
 
 June 2017
 
 In this romantic-comedic drama, Viktoria cast the role as the “girl who sells flowers” – again at the side of Brigitte Jaufenthaler, Ronja Forcher and the ensemble “Theaterhaufen Hall”.
 
-**Allegory of pain for the opening of the vernissage “SENS IT (L) IVE”, by Lisa Wöss**
+
+
+## **Allegory of pain for the opening of the vernissage “SENS IT (L) IVE”, by Lisa Wöss**
 
 October 2017
 
@@ -250,7 +257,7 @@ Pain gives birth. Birth gives pain. The imagination of beginning and end has bee
 
 ![Contribution to Allegory of pain]()
 
-**Music video „Evil man“ from Giant Anteater “**
+## **Music video „Evil man“ from Giant Anteater “**
 
 February 2017
 
@@ -260,7 +267,9 @@ Viktoria starred as the wife of an alcoholic
 
 ![Contribution to Evil man](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/evil-man.jpg)
 
-„**Frau Suitner“ – Haller Burgsommer, directed by Elmar Drexel, written by Karl Schönherr**
+
+
+## „**Frau Suitner“ – Haller Burgsommer, directed by Elmar Drexel, written by Karl Schönherr**
 
 June 2016
 
