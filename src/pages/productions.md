@@ -1,7 +1,7 @@
 ---
 title: Theatre Roles & Filmography
 subtitle: ""
-img_path: /images/_ADR5824.jpg
+img_path: /images/img_e9402.jpg
 seo:
   type: stackbit_page_meta
   title: "Viktoria Castellano - Actress: Productions"
