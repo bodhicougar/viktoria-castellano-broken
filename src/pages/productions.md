@@ -43,7 +43,7 @@ seo:
       relativeUrl: true
 template: page
 ---
-## **CoVideo News.TV – Projekttheater Hall in Tirol, directed by Kurt Benkovic, written by Sarah Milena Rendel**
+## **ProVideo News.TV – Projekttheater Hall in Tirol, directed by Kurt Benkovic, written by Sarah Milena Rendel**
 
 October 2021
 
@@ -97,6 +97,8 @@ Furniture maker -
 Erwin Schreckensperger
 
 *<http://www.projekttheater-hall.at/portfolio/provideonews-tv>*
+
+https://www.meinbezirk.at/hall-rum/c-lokales/hierarchiekaempfe-im-tv_a4924549 
 
 
 
@@ -176,8 +178,6 @@ Kurt Benkovic
 
 ![](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/maria-stewart-close-up.jpg)
 
-
-
 ## „**Wias kimm’t“ – Bogentheater Innsbruck, directed by Katharina Schwaiger, written by Stephanie Larcher-Senn**
 
 October-November 2018
@@ -211,15 +211,11 @@ Written by -
 
 *<https://www.bogentheater.at/verein/team>*
 
-
-
 ## „**Cyrano de Bergerac“ – Haller Burgsommer, directed by Elmar Drexel**
 
 June 2017
 
 In this romantic-comedic drama, Viktoria cast the role as the “girl who sells flowers” – again at the side of Brigitte Jaufenthaler, Ronja Forcher and the ensemble “Theaterhaufen Hall”.
-
-
 
 ## **Allegory of pain for the opening of the vernissage “SENS IT (L) IVE”, by Lisa Wöss**
 
@@ -266,8 +262,6 @@ Viktoria starred as the wife of an alcoholic
 *<https://www.youtube.com/watch?v=FSl0nf-p3XA>*
 
 ![Contribution to Evil man](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/evil-man.jpg)
-
-
 
 ## „**Frau Suitner“ – Haller Burgsommer, directed by Elmar Drexel, written by Karl Schönherr**
 
