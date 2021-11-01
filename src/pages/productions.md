@@ -54,7 +54,6 @@ The young Tyrolean author Sarah Milena Rendel (born in 1992) dealt with the impa
 Viktoria Castellano, starring as \
 Anna Turner, Studio director
 
-
 Vanessa Eberharter, starring as \
 Drine Mampf, Anna’s assistant 
 
