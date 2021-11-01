@@ -11,17 +11,19 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
+### **"Mein Freund Harvey" - Innsbrucker Ritterspiele,** \
+**directed by Luka Oberhammer, on stage in January 2022**
+
+Boulevard 
+
+Viktoria as nurse "Kelly" in a mental hospital. 
 
 
-* ## **"Mein Freund Harvey" - on stage in January 2022**  
 
- *\    Boulevard* 
+### **ProVideo News.TV – Projekttheater Hall in Tirol,** \
+**directed by Kurt Benkovic**
 
-\    Viktoria as nurse "Kelly" in a mental hospital. 
-
-* ## **ProVideo News.TV – Projekttheater Hall in Tirol, directed by Kurt Benkovic, written by Sarah Milena Rendel**
-
-\    October 2021
+October 2021
 
  The young Tyrolean author Sarah Milena Rendel (born in 1992) dealt with the impact of the pandemic          on private news television in 2020. As a result, she wrote a comedy that illuminates the gender roles of both men and women in this work field. The transmission of news in permanent live broadcasts offers quite a few surprises and due to the isolation to the world, lots of intrigues can be spun in order to rise up the career ladder.
 
@@ -72,13 +74,16 @@ Klex Wolf
 Furniture maker - 
 Erwin Schreckensperger
 
+Written by Sarah Milena Rendel 
+
 *<http://www.projekttheater-hall.at/portfolio/provideonews-tv>*
 
-https://www.meinbezirk.at/hall-rum/c-lokales/hierarchiekaempfe-im-tv_a4924549 
+https://www.meinbezirk.at/hall-rum/c-lokales/hierarchiekaempfe-im-tv_a4924549
 
-* ## **Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovic written by Lina Hofstädter**
+### **Maria.Königin – Projekttheater Hall in Tirol,** \
+**directed by Kurt Benkovic** 
 
-\    October - November – December 2019
+October - November – December 2019
 
  Due to the #metoo debate in 2018, the Tyrolean author Lina Hofstädter dealt with the life of Maria  Stuart. She focused on the Scottish Queen’s younger years - starting from where Maria becomes queen of France at the age of 17. After her Husband’s death, she returns to Scotland and reigns there until she has to flee to England at the age of 26. In the 16th century, Scotland and England were both ruled by women. Folks and nobility considered this as a violation to the natural order – where the man is the crown of creation and head of the family. A woman must submit to his will.
 
@@ -143,6 +148,10 @@ Fred Salvator
 Direction, overall management - 
 Kurt Benkovic
 
+Written by Lina Hofstädter 
+
+
+
 *<http://www.projekttheater-hall.at/portfolio/maria-koenigin>*
 
 *<https://www.youtube.com/watch?v=uWMJhbl3TyM>*
@@ -151,9 +160,10 @@ Kurt Benkovic
 
 ![](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/maria-stewart-close-up.jpg)
 
-* ## „**Wias kimm’t“ – Bogentheater Innsbruck, directed by Katharina Schwaiger, written by Stephanie Larcher-Senn**
+## „**Wias kimm’t“ – Bogentheater Innsbruck,** \
+**directed by Katharina Schwaiger** 
 
-\    October-November 2018
+October-November 2018 
 
 In the early 1960s, a boy and a girl fall in love with each other. As a result, she gets unexpectedly pregnant. But back then, having a child as an unmarried couple was a sin. The girl’s strict mother insists on a quick wedding, preferably before the child gets born. The young couple tries, therefore, to fix a wedding date with the local pastor – which turns out to be more difficult than expected.
 
@@ -171,11 +181,11 @@ Mother -
 Pastor - 
 [Simon Hölzl](https://www.bogentheater.at/verein/team/ehemalige-mitglieder/31/simon-holzl)
 
-Directed by - 
+Directed by  
 [Jakob Rosin](https://www.bogentheater.at/verein/team/vorstand/5/jakob-rosin)
 [Katharina Schwaiger](https://www.bogentheater.at/verein/team/vorstand/3/katharina-schwaiger)
 
-Written by - 
+Written by 
 [Stephanie Larcher-Senn](https://www.bogentheater.at/verein/team/vorstand/1/stephanie-larcher-senn)
 
 ![Contribution to Wia's kimmt]()
@@ -184,13 +194,16 @@ Written by -
 
 *<https://www.bogentheater.at/verein/team>*
 
-* ## „**Cyrano de Bergerac“ – Haller Burgsommer, directed by Elmar Drexel**
+## „**Cyrano de Bergerac“ – Haller Burgsommer,** \
+**directed by Elmar Drexel**
 
-\    June 2017
+\ June 2017
 
 In this romantic-comedic drama, Viktoria cast the role as the “girl who sells flowers” – again at the side of Brigitte Jaufenthaler, Ronja Forcher and the ensemble “Theaterhaufen Hall”.
 
-* ## **Allegory of pain for the opening of the vernissage “SENS IT (L) IVE”, by Lisa Wöss**
+## **Allegory of pain for the opening of the vernissage “SENS IT (L) IVE”,** 
+
+## **by Lisa Wöss**
 
 \    October 2017
 
@@ -226,19 +239,20 @@ Pain gives birth. Birth gives pain. The imagination of beginning and end has bee
 
 ![Contribution to Allegory of pain]()
 
-* ## **Music video „Evil man“ from Giant Anteater “**
+## **Music video „Evil man“ from Giant Anteater “**
 
-\    February 2017
+February 2017
 
 Viktoria starred as the wife of an alcoholic
 
 *<https://www.youtube.com/watch?v=FSl0nf-p3XA>*
 
-![Contribution to Evil man](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/evil-man.jpg)
 
-* ## „**Frau Suitner“ – Haller Burgsommer, directed by Elmar Drexel, written by Karl Schönherr**
 
-\    June 2016
+### „**Frau Suitner“ – Haller Burgsommer,** \
+**directed by Elmar Drexel, written by Andre Schönherr** 
+
+ June 2016
 
 Frau Suitner is an elderly lady who feels unworthy because she had never given birth to a child. Despite the fact that she managed to afford a debt-free life through hard work, she feels guilty and sorry for herself and her husband. Despite her tremendous jealousy, she takes the decision to drive him towards a girlish young woman - so at least he can have his own family.
 
