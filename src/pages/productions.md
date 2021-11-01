@@ -111,8 +111,7 @@ The author illustrates the principle of the patriarchal society at that time and
 
 **Cast:**
 
-Maria Stuart - 
-Viktoria Castellano
+Viktoria Castellano starring as Maria Stuart 
 
 François/Riccio - 
 Joseph Villinger
