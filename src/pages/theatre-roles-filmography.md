@@ -1,5 +1,6 @@
 ---
 title: Theatre Roles & Filmography
+img_path: /images/img_e9402.jpg
 seo:
   title: ""
   description: ""
