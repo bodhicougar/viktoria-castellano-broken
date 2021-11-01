@@ -1,6 +1,6 @@
 ---
-title: '"Mein Freund Harvey" Boulevard - On stage in January 2022'
-subtitle: "coming soon "
+title: '"Mein Freund Harvey" - On stage in January 2022'
+subtitle: "Boulevard "
 date: 2021-09-05T22:00:00.000Z
 thumb_img_path: ""
 thumb_img_alt: Viktoria in action
@@ -35,4 +35,36 @@ seo:
       relativeUrl: true
 template: post
 ---
+Viktoria as nurse "Kelly" in a mental hospital. 
+
+**Show dates:** 
+
+Friday, 14th January - 08:00pm \
+Saturday, 15th January - 08:pm 
+
+Friday, 21st January - 08:00pm \
+Saturday, 22nd January - 08:pm 
+
+Friday, 28th January - 08:00pm \
+Saturday, 29th January - 08:pm 
+
+Friday, 4th February - 08:00pm \
+Saturday, 5th February - 08:pm 
+
+Friday, 11th February - 08:00pm \
+Saturday, 12th February - 08:pm 
+
+
+
+Friday, 18th February - 08:00pm 
+
+Thursday, 24th February - 08:00pm 
+
+Friday, 25th February - 08:00pm \
+Saturday, 26th February - 08:pm 
+
+
+
+**For further information & tickets, visit:** 
+
 https://www.innsbrucker-ritterspiele.info/mein-freund-harvey
