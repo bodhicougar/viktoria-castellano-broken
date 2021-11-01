@@ -51,11 +51,12 @@ The young Tyrolean author Sarah Milena Rendel (born in 1992) dealt with the impa
 
 **Cast:**
 
-Anna Turner, Studio director -
-Viktoria Castellano
+Viktoria Castellano, starring as \
+Anna Turner, Studio director
 
-Drine Mampf, Anna’s assistant - 
-Vanessa Eberharter
+
+Vanessa Eberharter, starring as \
+Drine Mampf, Anna’s assistant 
 
 Ulrich Schaaf, News reporter - 
 Bruno Graber
@@ -99,8 +100,6 @@ Erwin Schreckensperger
 *<http://www.projekttheater-hall.at/portfolio/provideonews-tv>*
 
 https://www.meinbezirk.at/hall-rum/c-lokales/hierarchiekaempfe-im-tv_a4924549 
-
-
 
 ## **Maria.Königin – Projekttheater Hall in Tirol, directed by Kurt Benkovic written by Lina Hofstädter**
 
