@@ -11,17 +11,17 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-### **"Mein Freund Harvey" - Innsbrucker Ritterspiele,** \
+### **"Mein Freund Harvey" - Innsbrucker Ritterspiele,**\
+\\
 **directed by Luka Oberhammer, on stage in January 2022**
 
 Boulevard 
 
 Viktoria as nurse "Kelly" in a mental hospital. 
 
-
-
 ### **ProVideo News.TV – Projekttheater Hall in Tirol,** \
-**directed by Kurt Benkovic**
+
+#### **directed by Kurt Benkovic**
 
 October 2021
 
@@ -80,7 +80,19 @@ Written by Sarah Milena Rendel
 
 https://www.meinbezirk.at/hall-rum/c-lokales/hierarchiekaempfe-im-tv_a4924549
 
+
+
+### "Die Lederhosenaffäre" - ORF Movie \
+2020 
+
+Viktoria appeared on screen as a press reporter
+
+
+
+
+
 ### **Maria.Königin – Projekttheater Hall in Tirol,** \
+
 **directed by Kurt Benkovic** 
 
 October - November – December 2019
@@ -150,8 +162,6 @@ Kurt Benkovic
 
 Written by Lina Hofstädter 
 
-
-
 *<http://www.projekttheater-hall.at/portfolio/maria-koenigin>*
 
 *<https://www.youtube.com/watch?v=uWMJhbl3TyM>*
@@ -160,7 +170,8 @@ Written by Lina Hofstädter
 
 ![](https://preview--viktoria-castellano-45a4c.stackbit.dev/images/maria-stewart-close-up.jpg)
 
-## „**Wias kimm’t“ – Bogentheater Innsbruck,** \
+### „**Wias kimm’t“ – Bogentheater Innsbruck,** \
+
 **directed by Katharina Schwaiger** 
 
 October-November 2018 
@@ -181,7 +192,7 @@ Mother -
 Pastor - 
 [Simon Hölzl](https://www.bogentheater.at/verein/team/ehemalige-mitglieder/31/simon-holzl)
 
-Directed by  
+Directed by\
 [Jakob Rosin](https://www.bogentheater.at/verein/team/vorstand/5/jakob-rosin)
 [Katharina Schwaiger](https://www.bogentheater.at/verein/team/vorstand/3/katharina-schwaiger)
 
@@ -194,16 +205,17 @@ Written by
 
 *<https://www.bogentheater.at/verein/team>*
 
-## „**Cyrano de Bergerac“ – Haller Burgsommer,** \
+### „**Cyrano de Bergerac“ – Haller Burgsommer,** \
+
 **directed by Elmar Drexel**
 
 \ June 2017
 
 In this romantic-comedic drama, Viktoria cast the role as the “girl who sells flowers” – again at the side of Brigitte Jaufenthaler, Ronja Forcher and the ensemble “Theaterhaufen Hall”.
 
-## **Allegory of pain for the opening of the vernissage “SENS IT (L) IVE”,** 
+### **Allegory of pain for the opening of the vernissage “SENS IT (L) IVE”,**
 
-## **by Lisa Wöss**
+### **by Lisa Wöss**
 
 \    October 2017
 
@@ -239,7 +251,7 @@ Pain gives birth. Birth gives pain. The imagination of beginning and end has bee
 
 ![Contribution to Allegory of pain]()
 
-## **Music video „Evil man“ from Giant Anteater “**
+### **Music video „Evil man“ from Giant Anteater “**
 
 February 2017
 
@@ -247,9 +259,8 @@ Viktoria starred as the wife of an alcoholic
 
 *<https://www.youtube.com/watch?v=FSl0nf-p3XA>*
 
-
-
 ### „**Frau Suitner“ – Haller Burgsommer,** \
+
 **directed by Elmar Drexel, written by Andre Schönherr** 
 
  June 2016
