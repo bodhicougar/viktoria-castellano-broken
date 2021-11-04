@@ -5,7 +5,7 @@ date: 2021-10-31T23:00:00.000Z
 thumb_img_path: ""
 thumb_img_alt: Viktoria in action
 content_img_path: ""
-excerpt: ""
+excerpt: Boulevard
 seo:
   type: stackbit_page_meta
   title: Wia's kimmt
