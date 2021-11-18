@@ -13,25 +13,30 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-**Studioaufnahmen**
+**Studioaufnahmen
+**
 \<iframe src="https://albumizr.com/a/QrEi" scrolling="no" frameborder="0" allowfullscreen width="700" height="400">\</iframe>\<br />
 
 <br />
 
-**Maria Stuart**
+**Maria Stuart
+**
 \<iframe src="https://albumizr.com/a/4pS8" scrolling="no" frameborder="0" allowfullscreen width="700" height="400">\</iframe>\<br />
 
 <br />
 
-**Joker**
+**Joker
+**
 \<iframe src="https://albumizr.com/a/RObH" scrolling="no" frameborder="0" allowfullscreen width="700" height="400">\</iframe>\<br />
 
 <br />
 
-**ProStudio**
+**ProStudio
+**
 \<iframe src="https://albumizr.com/a/jQWn" scrolling="no" frameborder="0" allowfullscreen width="700" height="400">\</iframe>\<br />
 
 <br />
 
-**Wia's kimmt**
+**Wia's kimmt
+**
 \<iframe src="https://albumizr.com/a/Yc6N" scrolling="no" frameborder="0" allowfullscreen width="700" height="400">\</iframe>
