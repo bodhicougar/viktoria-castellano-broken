@@ -13,7 +13,7 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-**Studio recording**
+**Headshots & full body**
 
 <iframe src="https://albumizr.com/a/QrEi" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe><br /><br />
 
@@ -29,6 +29,14 @@ template: page
 
 <iframe src="https://albumizr.com/a/RObH" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe><br /><br />
 
-**Wia's kimmt - The way it goes**
+**Wia's kimmt**
 
-<iframe src="https://albumizr.com/a/Yc6N" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe><br />
+<iframe src="https://albumizr.com/a/Yc6N" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe><br /><br />
+
+**Sense (it) live**
+
+<iframe src="https://albumizr.com/a/R5z5" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe><br /><br />
+
+**Evil man**
+
+<iframe src="https://albumizr.com/a/QsIA" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe><br />
