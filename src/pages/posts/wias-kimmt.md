@@ -35,35 +35,32 @@ seo:
       relativeUrl: true
 template: post
 ---
-Viktoria as nurse "Kelly" in a mental hospital. 
+Viktoria as nurse "Kelly" in a mental hospital. This funny and dynamic play was a great success in the 40's - \
+re-staged now for the "Innsbrucker Ritterspiele", directed by Luka Oberhammer. 
 
 **Show dates:** 
 
-Friday, 14th January - 08:00pm \
-Saturday, 15th January - 08:pm 
+Friday, 14th January - 07:30pm \
+Saturday, 15th January - 07:30pm 
 
-Friday, 21st January - 08:00pm \
-Saturday, 22nd January - 08:pm 
+Friday, 21st January - 07:30pm \
+Saturday, 22nd January - 07:30pm 
 
-Friday, 28th January - 08:00pm \
-Saturday, 29th January - 08:pm 
+Friday, 28th January - 07:30pm \
+Saturday, 29th January - 07:30pm 
 
-Friday, 4th February - 08:00pm \
-Saturday, 5th February - 08:pm 
+Friday, 4th February - 07:30pm \
+Saturday, 5th February - 07:30pm 
 
-Friday, 11th February - 08:00pm \
-Saturday, 12th February - 08:pm 
+Friday, 11th February - 07:30pm \
+Saturday, 12th February - 07:30pm 
 
+Friday, 18th February - 07:30pm 
 
+Thursday, 24th February - 07:30pm 
 
-Friday, 18th February - 08:00pm 
-
-Thursday, 24th February - 08:00pm 
-
-Friday, 25th February - 08:00pm \
-Saturday, 26th February - 08:pm 
-
-
+Friday, 25th February - 07:30pm \
+Saturday, 26th February - 07:30pm 
 
 **For further information & tickets, visit:** 
 
