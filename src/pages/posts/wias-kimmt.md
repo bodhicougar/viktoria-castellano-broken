@@ -1,5 +1,5 @@
 ---
-title: '"Mein Freund Harvey" - On stage in January 2022'
+title: '"Mein Freund Harvey" - NOW ON STAGE '
 subtitle: "Boulevard "
 date: 2021-10-31T23:00:00.000Z
 thumb_img_path: ""
