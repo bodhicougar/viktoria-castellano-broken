@@ -1,5 +1,5 @@
 ---
-title: "Actros Degree - Autumn 2021 "
+title: "Actros Degree in Vienna "
 subtitle: By the commission of performing Arts in Vienna.
 date: 2021-10-20T22:00:00.000Z
 thumb_img_path: /images/_adr5914.jpg
