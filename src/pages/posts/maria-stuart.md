@@ -2,7 +2,7 @@
 title: "Actros Degree - Autumn 2021 "
 subtitle: By the commission of performing Arts in Vienna.
 date: 2021-10-20T22:00:00.000Z
-thumb_img_path: ""
+thumb_img_path: /images/_adr5914.jpg
 thumb_img_alt: Viktoria in action
 content_img_path: ""
 excerpt: " Viktoria is currently working on an actress´s degree at the
