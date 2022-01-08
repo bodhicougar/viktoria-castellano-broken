@@ -1,36 +1,36 @@
 ---
 title: '"Mein Freund Harvey" - NOW ON STAGE '
-subtitle: "Boulevard "
-date: 2021-10-31T23:00:00.000Z
+subtitle: 'Boulevard '
+date: '2022-01-08'
 thumb_img_path: /images/screenshot-2022-01-06-21.04.13.png
 thumb_img_alt: Viktoria in action
-content_img_path: ""
+content_img_path: ''
 excerpt: Boulevard
 seo:
   type: stackbit_page_meta
   title: Wia's kimmt
   description: A cautionary tale about life in New York
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: article
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Few Things I Wish I Knew Before I Moved to New York
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: A cautionary tale about life in New York
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/5.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Few Things I Wish I Knew Before I Moved to New York
-    - name: twitter:description
+    - name: 'twitter:description'
       value: A cautionary tale about life in New York
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
 template: post
