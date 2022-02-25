@@ -1,5 +1,6 @@
 ---
-title: Get in Touch
+title: 'Contact me '
+subtitle: ''
 img_path: images/contact.jpg
 form_id: contactForm
 form_action: /success
@@ -8,48 +9,58 @@ form_fields:
     input_type: text
     name: name
     label: Name
-    default_value: Your name
+    default_value: 'Your name '
     is_required: true
   - type: form_field
     input_type: email
     name: email
-    label: Email
-    default_value: Your email address
+    label: E-Mail
+    default_value: 'Please enter your e-mail address '
     is_required: true
   - type: form_field
     input_type: select
     name: subject
-    label: Subject
-    default_value: Please select
+    label: 'Subject '
+    default_value: ''
     options:
-      - Error on the site
-      - Sponsorship
-      - Other
+      - 'Please contact me via phone '
+      - 'Submission of vita or Videos '
+      - 'Error on the page '
+      - 'Contact me via E-mail '
   - type: form_field
     input_type: textarea
     name: message
-    label: Message
-    default_value: Your message
+    label: 'Message '
+    default_value: 'Your message '
   - type: form_field
     input_type: checkbox
     name: consent
     label: >-
-      I understand that this form is storing my submitted information so I can
-      be contacted.
-submit_label: Send Message
+      I agree this website saves my submitted information so that I can be
+      contacted 
+    is_required: true
+submit_label: Send
 seo:
   type: stackbit_page_meta
-  title: Get in Touch
-  description: This is the contact page
+  title: 'Viktoria Castellano - Actress: Contact'
+  description: >-
+    Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
+    Italian-German actress.
+
+    From a very young age, Viktoria had a strong compassion for art.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Get in Touch
+      value: 'Viktoria Castellano - actress: Getting in touch'
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: >-
+        Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
+        Italian-German actress.
+
+        From a very young age, Viktoria had a strong compassion for art.
       keyName: property
     - name: 'og:image'
       value: images/contact.jpg
@@ -58,13 +69,15 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Get in Touch
+      value: Getting in touch
     - name: 'twitter:description'
-      value: This is the contact page
+      value: >-
+        Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
+        Italian-German actress.
+
+        From a very young age, Viktoria had a strong compassion for art.
     - name: 'twitter:image'
       value: images/contact.jpg
       relativeUrl: true
 template: contact
 ---
-
-To get in touch fill the form below.

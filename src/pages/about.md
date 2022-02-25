@@ -1,23 +1,31 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work
-img_path: /images/_ADR5866.jpg
+title: 'About me '
+subtitle: ''
+img_path: /images/img_9153.jpg
 seo:
   type: stackbit_page_meta
-  title: About Me
-  description: A page about me and my work
+  title: 'Viktoria Castellano - Actress: About Me'
+  description: >-
+    Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
+    Italian-German actress.
+
+    From a very young age, Viktoria had a strong compassion for art.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: 'Viktoria Castellano - Actress: About Me'
       keyName: property
     - name: 'og:description'
-      value: A page about me and my work
+      value: >-
+        Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
+        Italian-German actress.
+
+        From a very young age, Viktoria had a strong compassion for art.
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /_static/app-assets/bg__ADR5757-e29aa7c5.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -25,19 +33,24 @@ seo:
     - name: 'twitter:title'
       value: About Me
     - name: 'twitter:description'
-      value: A page about me and my work
+      value: >-
+        Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
+        Italian-German actress.
+
+        From a very young age, Viktoria had a strong compassion for art.
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
 template: page
 ---
+Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an Italian-German actress.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+From a very young age, Viktoria had a strong compassion for art. Painting, drawing, acting, writing and music have always been a part of her everyday life. She attended the European school in Italy and consequently speaks five languages. She has always been fond of sports and practices horse riding, skiing, surfing and ice skating.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+As a teenager she moved to Austria and began an apprenticeship as a hotel and catering assistant, which she completed in 2013. After that, she attended night school from 2016 to 2020 and passed her A-levels there.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+In the meantime, aged 22, she resumed work at the theatre. As a result, she acted on stage for the “Haller Burgsommer” for two years under the direction of Elmar Drexel and in 2017 she joined the team of “Bogentheater” located in Innsbruck.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+One year later, she got her first leading part in a one-act play and in 2019, she starred as Queen Mary Stuart in a modern adaption of the drama for “Projekttheater Hall” in Tyrol.
 
-*Thank You for reading!*
+Since 2020, Viktoria has been working on an actress´s degree at the “Paritätische Kommission” in Vienna, which she is expected to get in 2022.

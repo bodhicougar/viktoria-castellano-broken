@@ -1,20 +1,28 @@
 ---
 title: Start
 has_more_link: true
-more_link_text: Weiterlesen
+more_link_text: Read more
 seo:
   type: stackbit_page_meta
-  title: Viktoria Castellano
-  description: 'Anna-Viktoria Castellano:Schauspielerin'
+  title: Viktoria Castellano - Actress
+  description: >-
+    Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
+    Italian-German actress.
+
+    From a very young age, Viktoria had a strong compassion for art.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Anna-Viktoria Castellano
+      value: Anna-Viktoria Castellano - Actress
       keyName: property
     - name: 'og:description'
-      value: Schauspielerin / actress / etc.
+      value: >-
+        Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
+        Italian-German actress.
+
+        From a very young age, Viktoria had a strong compassion for art.
       keyName: property
     - name: 'og:image'
       value: /images/IMG_7348.jpg
@@ -25,7 +33,11 @@ seo:
     - name: 'twitter:title'
       value: Anna-Viktoria Castellano
     - name: 'twitter:description'
-      value: Schauspielerin / actress / etc.
+      value: >-
+        Anna-Viktoria Castellano (born 19th March 1993 in Milano) is an
+        Italian-German actress.
+
+        From a very young age, Viktoria had a strong compassion for art.
     - name: 'twitter:image'
       value: /images/IMG_7348.jpg
       relativeUrl: true
