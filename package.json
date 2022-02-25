@@ -1,7 +1,7 @@
 {
-  "name": "anna-victoriy-Castellano",
+  "name": "anna-victoria-castellano",
   "description": "Viktoria Castellano Schablone",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
