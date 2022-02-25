@@ -1,102 +1,102 @@
 {
-  "title": "Anna-Viktoria Castellano",
-  "palette": "yellow",
-  "header": {
-    "social_links": [
-      {
-        "type": "action",
-        "label": "YouTube",
-        "url": "https://youtu.be/lRIr6VgJkpE",
-        "style": "icon",
-        "icon_class": "youtube",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "Instagram",
-        "url": "https://www.instagram.com/viktoriacastellano/",
-        "style": "icon",
-        "icon_class": "instagram",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "Facebook",
-        "url": "https://www.facebook.com/viktoriashiva.castellano",
-        "style": "icon",
-        "icon_class": "facebook",
-        "new_window": true
-      },
-      {
-        "url": "https://www.bogentheater.at/verein/team",
-        "style": "icon",
-        "new_window": true,
-        "no_follow": false,
-        "type": "action",
-        "icon_class": "dev",
-        "label": "Team Bogentheater "
-      }
-    ],
-    "tagline": "Actress",
-    "has_social": true,
-    "background_img": "/images/DSC0E0999.jpg",
-    "title": "Viktoria Castellano",
-    "logo_img_alt": "Viktoria's Logo",
-    "type": "header",
-    "nav_links": [
-      {
-        "type": "action",
-        "label": "Start",
-        "url": "/",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "About me",
-        "url": "/about",
-        "style": "link"
-      },
-      {
-        "label": "Theatre Roles & Filmography",
-        "url": "/theatre-roles-filmography",
-        "style": "link",
-        "icon_class": "dev",
-        "new_window": false,
-        "no_follow": false,
-        "type": "action"
-      },
-      {
-        "url": "/gallery",
-        "style": "link",
-        "new_window": false,
-        "no_follow": false,
-        "type": "action",
-        "label": "Gallery",
-        "icon_class": "dev"
-      },
-      {
-        "type": "action",
-        "label": "Contact",
-        "url": "/contact",
-        "style": "link",
-        "new_window": true
-      },
-      {
-        "label": "Legal Disclosure ",
-        "url": "/disclosure",
-        "style": "link",
-        "icon_class": "dev",
-        "new_window": false,
-        "no_follow": false,
-        "type": "action"
-      }
-    ],
-    "has_nav": true
-  },
-  "footer": {
-    "type": "footer",
-    "content": "&copy; Anna-Viktoria Castellano 2022. All rights reserved. This Jamstack site was created by BlackBoxMediaDesign OÜ."
-  },
-  "domain": "https://www.viktoriacastellano.art/",
-  "favicon": "/images/Krönchen.png"
+    "title": "Anna-Viktoria Castellano",
+    "palette": "yellow",
+    "header": {
+        "social_links": [
+            {
+                "type": "action",
+                "label": "YouTube",
+                "url": "https://youtu.be/lRIr6VgJkpE",
+                "style": "icon",
+                "icon_class": "youtube",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/viktoriacastellano/",
+                "style": "icon",
+                "icon_class": "instagram",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/viktoriashiva.castellano",
+                "style": "icon",
+                "icon_class": "facebook",
+                "new_window": true
+            },
+            {
+                "url": "https://www.bogentheater.at/verein/team",
+                "style": "icon",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action",
+                "icon_class": "dev",
+                "label": "Team Bogentheater "
+            }
+        ],
+        "tagline": "Actress",
+        "has_social": true,
+        "background_img": "/images/DSC0E0999.jpg",
+        "title": "Viktoria Castellano",
+        "logo_img_alt": "Viktoria's Logo",
+        "type": "header",
+        "nav_links": [
+            {
+                "type": "action",
+                "label": "Start",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "About me",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Theatre Roles & Filmography",
+                "url": "/theatre-roles-filmography",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "url": "/gallery",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action",
+                "label": "Gallery",
+                "icon_class": "dev"
+            },
+            {
+                "type": "action",
+                "label": "Contact",
+                "url": "/contact",
+                "style": "link",
+                "new_window": true
+            },
+            {
+                "label": "Legal Disclosure ",
+                "url": "/disclosure",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ],
+        "has_nav": true
+    },
+    "footer": {
+        "type": "footer",
+        "content": "© Anna-Viktoria Castellano 2022. All rights reserved.This Jamstack site was created by BlackBoxMediaDesign OÜ."
+    },
+    "domain": "https://www.viktoriacastellano.art/",
+    "favicon": "/images/Krönchen.png"
 }
