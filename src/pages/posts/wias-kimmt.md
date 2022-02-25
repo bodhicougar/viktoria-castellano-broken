@@ -1,7 +1,7 @@
 ---
 title: '"Mein Freund Harvey" - NOW ON STAGE '
 subtitle: 'Boulevard '
-date: '2022-02-25'
+date: '2022-01-08'
 thumb_img_path: /images/screenshot-2022-01-06-21.04.13.png
 thumb_img_alt: Viktoria in action
 content_img_path: ''

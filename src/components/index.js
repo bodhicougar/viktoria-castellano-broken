@@ -8,23 +8,23 @@ import Navigation from './Navigation';
 import Layout from './Layout';
 
 export {
-  Branding,
-  Footer,
-  FormField,
-  Header,
-  HeaderAlt,
-  Icon,
-  Navigation,
-  Layout,
+    Branding,
+    Footer,
+    FormField,
+    Header,
+    HeaderAlt,
+    Icon,
+    Navigation,
+    Layout
 };
 
 export default {
-  Branding,
-  Footer,
-  FormField,
-  Header,
-  HeaderAlt,
-  Icon,
-  Navigation,
-  Layout,
+    Branding,
+    Footer,
+    FormField,
+    Header,
+    HeaderAlt,
+    Icon,
+    Navigation,
+    Layout
 };
