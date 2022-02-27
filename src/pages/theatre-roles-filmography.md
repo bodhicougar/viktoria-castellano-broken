@@ -18,12 +18,10 @@ template: page
 
 *Boulevard* 
 
-Viktoria as nurse "Kelly" in a mental hospital. This funny and dynamic play was a great success in the 40's -\
-re-staged now for the "Innsbrucker Ritterspiele", directed by Luka Oberhammer.
+Viktoria as nurse "Kelly" in a mental hospital. This funny and dynamic play was a great success on Broadway in the 40's -\
+re-staged now by the "Innsbrucker Ritterspiele" and directed by Luka Oberhammer.
 
 <!--EndFragment-->
-
-
 
 ### **ProVideo News.TV – Projekttheater Hall in Tirol,** \
 
